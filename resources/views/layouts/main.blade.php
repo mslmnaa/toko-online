@@ -42,7 +42,7 @@
 <body class="font-sans bg-gray-50 text-gray-800 min-h-screen flex flex-col antialiased selection:bg-primary-200 selection:text-primary-900">
     <!-- Skip to main content for accessibility -->
     <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:p-4 focus:bg-white focus:text-primary-800">
-        Skip to main content
+        Skip to main conte
     </a>
 
     <!-- Navbar -->
