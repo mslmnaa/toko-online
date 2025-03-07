@@ -1,0 +1,3760 @@
+Folder PATH listing
+Volume serial number is F266-B50E
+C:.
++---app
+¦   +---Console
+¦   +---Exceptions
+¦   +---Http
+¦   ¦   +---Controllers
+¦   ¦   ¦   +---admin
+¦   ¦   ¦   +---Auth
+¦   ¦   +---Middleware
+¦   ¦   +---Requests
+¦   ¦       +---Auth
+¦   +---Models
+¦   +---Policies
+¦   +---Providers
+¦   ¦   +---Filament
+¦   +---View
+¦       +---Components
++---bootstrap
+¦   +---cache
++---config
++---database
+¦   +---factories
+¦   +---mail
+¦   +---migrations
+¦   +---seeders
++---node_modules
+¦   +---.bin
+¦   +---.vite
+¦   ¦   +---deps
+¦   +---@alloc
+¦   ¦   +---quick-lru
+¦   +---@ampproject
+¦   ¦   +---remapping
+¦   ¦       +---dist
+¦   ¦           +---types
+¦   +---@babel
+¦   ¦   +---code-frame
+¦   ¦   ¦   +---lib
+¦   ¦   +---compat-data
+¦   ¦   ¦   +---data
+¦   ¦   +---core
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦   +---files
+¦   ¦   ¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   ¦   +---validation
+¦   ¦   ¦   ¦   +---errors
+¦   ¦   ¦   ¦   +---gensync-utils
+¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---tools
+¦   ¦   ¦   ¦   +---transformation
+¦   ¦   ¦   ¦   ¦   +---file
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---vendor
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---config
+¦   ¦   ¦           +---files
+¦   ¦   +---generator
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---generators
+¦   ¦   ¦       +---node
+¦   ¦   +---helper-compilation-targets
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---lru-cache
+¦   ¦   +---helper-module-imports
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-module-transforms
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-plugin-utils
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-string-parser
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-identifier
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-option
+¦   ¦   ¦   +---lib
+¦   ¦   +---helpers
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---helpers
+¦   ¦   +---parser
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---typings
+¦   ¦   +---plugin-transform-react-jsx-self
+¦   ¦   ¦   +---lib
+¦   ¦   +---plugin-transform-react-jsx-source
+¦   ¦   ¦   +---lib
+¦   ¦   +---runtime
+¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---regenerator
+¦   ¦   +---template
+¦   ¦   ¦   +---lib
+¦   ¦   +---traverse
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---path
+¦   ¦   ¦       ¦   +---inference
+¦   ¦   ¦       ¦   +---lib
+¦   ¦   ¦       +---scope
+¦   ¦   ¦           +---lib
+¦   ¦   +---types
+¦   ¦       +---lib
+¦   ¦           +---asserts
+¦   ¦           ¦   +---generated
+¦   ¦           +---ast-types
+¦   ¦           ¦   +---generated
+¦   ¦           +---builders
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---generated
+¦   ¦           ¦   +---react
+¦   ¦           ¦   +---typescript
+¦   ¦           +---clone
+¦   ¦           +---comments
+¦   ¦           +---constants
+¦   ¦           ¦   +---generated
+¦   ¦           +---converters
+¦   ¦           +---definitions
+¦   ¦           +---modifications
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---typescript
+¦   ¦           +---retrievers
+¦   ¦           +---traverse
+¦   ¦           +---utils
+¦   ¦           ¦   +---react
+¦   ¦           +---validators
+¦   ¦               +---generated
+¦   ¦               +---react
+¦   +---@esbuild
+¦   ¦   +---win32-x64
+¦   +---@isaacs
+¦   ¦   +---cliui
+¦   ¦       +---build
+¦   ¦           +---lib
+¦   +---@jridgewell
+¦   ¦   +---gen-mapping
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---resolve-uri
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---set-array
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---sourcemap-codec
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---trace-mapping
+¦   ¦       +---dist
+¦   ¦           +---types
+¦   +---@nodelib
+¦   ¦   +---fs.scandir
+¦   ¦   ¦   +---out
+¦   ¦   ¦       +---adapters
+¦   ¦   ¦       +---providers
+¦   ¦   ¦       +---types
+¦   ¦   ¦       +---utils
+¦   ¦   +---fs.stat
+¦   ¦   ¦   +---out
+¦   ¦   ¦       +---adapters
+¦   ¦   ¦       +---providers
+¦   ¦   ¦       +---types
+¦   ¦   +---fs.walk
+¦   ¦       +---out
+¦   ¦           +---providers
+¦   ¦           +---readers
+¦   ¦           +---types
+¦   +---@parcel
+¦   ¦   +---watcher
+¦   ¦   ¦   +---scripts
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---kqueue
+¦   ¦   ¦       +---linux
+¦   ¦   ¦       +---macos
+¦   ¦   ¦       +---shared
+¦   ¦   ¦       +---unix
+¦   ¦   ¦       +---wasm
+¦   ¦   ¦       +---watchman
+¦   ¦   ¦       +---windows
+¦   ¦   +---watcher-win32-x64
+¦   +---@pkgjs
+¦   ¦   +---parseargs
+¦   ¦       +---examples
+¦   ¦       +---internal
+¦   +---@popperjs
+¦   ¦   +---core
+¦   ¦       +---dist
+¦   ¦       ¦   +---cjs
+¦   ¦       ¦   +---esm
+¦   ¦       ¦   ¦   +---dom-utils
+¦   ¦       ¦   ¦   +---modifiers
+¦   ¦       ¦   ¦   +---utils
+¦   ¦       ¦   +---umd
+¦   ¦       +---lib
+¦   ¦           +---dom-utils
+¦   ¦           +---modifiers
+¦   ¦           +---utils
+¦   +---@tailwindcss
+¦   ¦   +---aspect-ratio
+¦   ¦   ¦   +---.github
+¦   ¦   ¦   ¦   +---ISSUE_TEMPLATE
+¦   ¦   ¦   ¦   +---workflows
+¦   ¦   ¦   +---src
+¦   ¦   ¦   +---tests
+¦   ¦   +---forms
+¦   ¦   ¦   +---.github
+¦   ¦   ¦   ¦   +---ISSUE_TEMPLATE
+¦   ¦   ¦   ¦   +---workflows
+¦   ¦   ¦   +---scripts
+¦   ¦   ¦   +---src
+¦   ¦   +---typography
+¦   ¦       +---node_modules
+¦   ¦       ¦   +---postcss-selector-parser
+¦   ¦       ¦       +---dist
+¦   ¦       ¦           +---selectors
+¦   ¦       ¦           +---util
+¦   ¦       +---src
+¦   +---@types
+¦   ¦   +---babel__core
+¦   ¦   +---babel__generator
+¦   ¦   +---babel__template
+¦   ¦   +---babel__traverse
+¦   ¦   +---d3-array
+¦   ¦   +---d3-color
+¦   ¦   +---d3-ease
+¦   ¦   +---d3-interpolate
+¦   ¦   +---d3-path
+¦   ¦   +---d3-scale
+¦   ¦   +---d3-shape
+¦   ¦   +---d3-time
+¦   ¦   +---d3-timer
+¦   +---@vitejs
+¦   ¦   +---plugin-react
+¦   ¦       +---dist
+¦   +---@vue
+¦   ¦   +---reactivity
+¦   ¦   ¦   +---dist
+¦   ¦   +---shared
+¦   ¦       +---dist
+¦   +---alpinejs
+¦   ¦   +---builds
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---directives
+¦   ¦       +---magics
+¦   ¦       +---utils
+¦   +---ansi-regex
+¦   +---ansi-styles
+¦   +---any-promise
+¦   ¦   +---register
+¦   +---anymatch
+¦   +---arg
+¦   +---asynckit
+¦   ¦   +---lib
+¦   +---autoprefixer
+¦   ¦   +---bin
+¦   ¦   +---data
+¦   ¦   +---lib
+¦   ¦       +---hacks
+¦   +---axios
+¦   ¦   +---dist
+¦   ¦   ¦   +---browser
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---node
+¦   ¦   +---lib
+¦   ¦       +---adapters
+¦   ¦       +---cancel
+¦   ¦       +---core
+¦   ¦       +---defaults
+¦   ¦       +---env
+¦   ¦       ¦   +---classes
+¦   ¦       +---helpers
+¦   ¦       +---platform
+¦   ¦           +---browser
+¦   ¦           ¦   +---classes
+¦   ¦           +---common
+¦   ¦           +---node
+¦   ¦               +---classes
+¦   +---balanced-match
+¦   ¦   +---.github
+¦   +---binary-extensions
+¦   +---bootstrap
+¦   ¦   +---dist
+¦   ¦   ¦   +---css
+¦   ¦   ¦   +---js
+¦   ¦   +---js
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---dom
+¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---dom
+¦   ¦   ¦       +---util
+¦   ¦   +---scss
+¦   ¦       +---forms
+¦   ¦       +---helpers
+¦   ¦       +---mixins
+¦   ¦       +---utilities
+¦   ¦       +---vendor
+¦   +---brace-expansion
+¦   ¦   +---.github
+¦   +---braces
+¦   ¦   +---lib
+¦   +---browserslist
+¦   +---camelcase-css
+¦   +---caniuse-lite
+¦   ¦   +---data
+¦   ¦   ¦   +---features
+¦   ¦   ¦   +---regions
+¦   ¦   +---dist
+¦   ¦       +---lib
+¦   ¦       +---unpacker
+¦   +---chokidar
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---glob-parent
+¦   ¦   +---types
+¦   +---clsx
+¦   ¦   +---dist
+¦   +---color-convert
+¦   +---color-name
+¦   +---combined-stream
+¦   ¦   +---lib
+¦   +---commander
+¦   ¦   +---typings
+¦   +---convert-source-map
+¦   +---cross-spawn
+¦   ¦   +---lib
+¦   ¦       +---util
+¦   +---cssesc
+¦   ¦   +---bin
+¦   ¦   +---man
+¦   +---csstype
+¦   +---d3-array
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---threshold
+¦   +---d3-color
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-ease
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-format
+¦   ¦   +---dist
+¦   ¦   +---locale
+¦   ¦   +---src
+¦   +---d3-interpolate
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---transform
+¦   +---d3-path
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-scale
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-shape
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---curve
+¦   ¦       +---offset
+¦   ¦       +---order
+¦   ¦       +---symbol
+¦   +---d3-time
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-time-format
+¦   ¦   +---dist
+¦   ¦   +---locale
+¦   ¦   +---src
+¦   +---d3-timer
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---debug
+¦   ¦   +---src
+¦   +---decimal.js-light
+¦   ¦   +---doc
+¦   +---delayed-stream
+¦   ¦   +---lib
+¦   +---detect-libc
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   +---didyoumean
+¦   +---dlv
+¦   ¦   +---dist
+¦   +---dom-helpers
+¦   ¦   +---activeElement
+¦   ¦   +---addClass
+¦   ¦   +---addEventListener
+¦   ¦   +---animate
+¦   ¦   +---animationFrame
+¦   ¦   +---attribute
+¦   ¦   +---camelize
+¦   ¦   +---camelizeStyle
+¦   ¦   +---canUseDOM
+¦   ¦   +---childElements
+¦   ¦   +---childNodes
+¦   ¦   +---cjs
+¦   ¦   +---clear
+¦   ¦   +---closest
+¦   ¦   +---collectElements
+¦   ¦   +---collectSiblings
+¦   ¦   +---contains
+¦   ¦   +---css
+¦   ¦   +---esm
+¦   ¦   +---filterEventHandler
+¦   ¦   +---getComputedStyle
+¦   ¦   +---getScrollAccessor
+¦   ¦   +---hasClass
+¦   ¦   +---height
+¦   ¦   +---hyphenate
+¦   ¦   +---hyphenateStyle
+¦   ¦   +---insertAfter
+¦   ¦   +---isDocument
+¦   ¦   +---isInput
+¦   ¦   +---isTransform
+¦   ¦   +---isVisible
+¦   ¦   +---isWindow
+¦   ¦   +---listen
+¦   ¦   +---matches
+¦   ¦   +---nextUntil
+¦   ¦   +---offset
+¦   ¦   +---offsetParent
+¦   ¦   +---ownerDocument
+¦   ¦   +---ownerWindow
+¦   ¦   +---parents
+¦   ¦   +---position
+¦   ¦   +---prepend
+¦   ¦   +---querySelectorAll
+¦   ¦   +---remove
+¦   ¦   +---removeClass
+¦   ¦   +---removeEventListener
+¦   ¦   +---scrollbarSize
+¦   ¦   +---scrollLeft
+¦   ¦   +---scrollParent
+¦   ¦   +---scrollTo
+¦   ¦   +---scrollTop
+¦   ¦   +---siblings
+¦   ¦   +---text
+¦   ¦   +---toggleClass
+¦   ¦   +---transitionEnd
+¦   ¦   +---triggerEvent
+¦   ¦   +---width
+¦   +---eastasianwidth
+¦   +---electron-to-chromium
+¦   +---emoji-regex
+¦   ¦   +---es2015
+¦   +---esbuild
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   +---escalade
+¦   ¦   +---dist
+¦   ¦   +---sync
+¦   +---eventemitter3
+¦   ¦   +---umd
+¦   +---fast-equals
+¦   ¦   +---config
+¦   ¦   ¦   +---rollup
+¦   ¦   ¦   +---tsconfig
+¦   ¦   +---dist
+¦   ¦   ¦   +---cjs
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---min
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---umd
+¦   ¦   ¦       +---types
+¦   ¦   +---recipes
+¦   ¦   +---src
+¦   +---fast-glob
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---glob-parent
+¦   ¦   +---out
+¦   ¦       +---managers
+¦   ¦       +---providers
+¦   ¦       ¦   +---filters
+¦   ¦       ¦   +---matchers
+¦   ¦       ¦   +---transformers
+¦   ¦       +---readers
+¦   ¦       +---types
+¦   ¦       +---utils
+¦   +---fastq
+¦   ¦   +---.github
+¦   ¦   ¦   +---workflows
+¦   ¦   +---test
+¦   +---fill-range
+¦   +---follow-redirects
+¦   +---foreground-child
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---form-data
+¦   ¦   +---lib
+¦   +---fraction.js
+¦   +---framer-motion
+¦   ¦   +---client
+¦   ¦   +---dist
+¦   ¦   ¦   +---cjs
+¦   ¦   ¦   +---es
+¦   ¦   ¦       +---animation
+¦   ¦   ¦       ¦   +---animate
+¦   ¦   ¦       ¦   +---animators
+¦   ¦   ¦       ¦   ¦   +---drivers
+¦   ¦   ¦       ¦   ¦   +---utils
+¦   ¦   ¦       ¦   ¦   +---waapi
+¦   ¦   ¦       ¦   ¦       +---utils
+¦   ¦   ¦       ¦   +---generators
+¦   ¦   ¦       ¦   ¦   +---spring
+¦   ¦   ¦       ¦   ¦   +---utils
+¦   ¦   ¦       ¦   +---hooks
+¦   ¦   ¦       ¦   +---interfaces
+¦   ¦   ¦       ¦   +---optimized-appear
+¦   ¦   ¦       ¦   +---sequence
+¦   ¦   ¦       ¦   ¦   +---utils
+¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦       +---components
+¦   ¦   ¦       ¦   +---AnimatePresence
+¦   ¦   ¦       ¦   +---LayoutGroup
+¦   ¦   ¦       ¦   +---LazyMotion
+¦   ¦   ¦       ¦   +---MotionConfig
+¦   ¦   ¦       ¦   +---Reorder
+¦   ¦   ¦       ¦       +---utils
+¦   ¦   ¦       +---context
+¦   ¦   ¦       ¦   +---MotionContext
+¦   ¦   ¦       +---easing
+¦   ¦   ¦       ¦   +---modifiers
+¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦       +---events
+¦   ¦   ¦       +---frameloop
+¦   ¦   ¦       +---gestures
+¦   ¦   ¦       ¦   +---drag
+¦   ¦   ¦       ¦   ¦   +---utils
+¦   ¦   ¦       ¦   +---pan
+¦   ¦   ¦       +---motion
+¦   ¦   ¦       ¦   +---features
+¦   ¦   ¦       ¦   ¦   +---animation
+¦   ¦   ¦       ¦   ¦   +---layout
+¦   ¦   ¦       ¦   ¦   +---viewport
+¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦       +---projection
+¦   ¦   ¦       ¦   +---animation
+¦   ¦   ¦       ¦   +---geometry
+¦   ¦   ¦       ¦   +---node
+¦   ¦   ¦       ¦   +---shared
+¦   ¦   ¦       ¦   +---styles
+¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦       +---render
+¦   ¦   ¦       ¦   +---components
+¦   ¦   ¦       ¦   ¦   +---m
+¦   ¦   ¦       ¦   ¦   +---motion
+¦   ¦   ¦       ¦   +---dom
+¦   ¦   ¦       ¦   ¦   +---resize
+¦   ¦   ¦       ¦   ¦   +---scroll
+¦   ¦   ¦       ¦   ¦   ¦   +---offsets
+¦   ¦   ¦       ¦   ¦   +---utils
+¦   ¦   ¦       ¦   ¦   +---value-types
+¦   ¦   ¦       ¦   ¦   +---viewport
+¦   ¦   ¦       ¦   +---html
+¦   ¦   ¦       ¦   ¦   +---utils
+¦   ¦   ¦       ¦   +---object
+¦   ¦   ¦       ¦   +---svg
+¦   ¦   ¦       ¦   ¦   +---utils
+¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦       +---utils
+¦   ¦   ¦       ¦   +---mix
+¦   ¦   ¦       ¦   +---offsets
+¦   ¦   ¦       ¦   +---reduced-motion
+¦   ¦   ¦       +---value
+¦   ¦   ¦           +---scroll
+¦   ¦   ¦           +---types
+¦   ¦   ¦           ¦   +---color
+¦   ¦   ¦           ¦   +---complex
+¦   ¦   ¦           ¦   +---numbers
+¦   ¦   ¦           ¦   +---utils
+¦   ¦   ¦           +---use-will-change
+¦   ¦   ¦           +---utils
+¦   ¦   +---dom
+¦   ¦   ¦   +---mini
+¦   ¦   +---m
+¦   ¦   +---mini
+¦   +---function-bind
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---gensync
+¦   ¦   +---test
+¦   +---glob
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---glob-parent
+¦   +---globals
+¦   +---hasown
+¦   ¦   +---.github
+¦   +---immutable
+¦   ¦   +---dist
+¦   +---internmap
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---is-binary-path
+¦   +---is-core-module
+¦   ¦   +---test
+¦   +---is-extglob
+¦   +---is-fullwidth-code-point
+¦   +---is-glob
+¦   +---is-number
+¦   +---isexe
+¦   ¦   +---test
+¦   +---jackspeak
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---jiti
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   ¦   +---plugins
+¦   ¦   +---lib
+¦   +---js-tokens
+¦   +---jsesc
+¦   ¦   +---bin
+¦   ¦   +---man
+¦   +---json5
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---laravel-vite-plugin
+¦   ¦   +---dist
+¦   ¦   +---inertia-helpers
+¦   +---lilconfig
+¦   ¦   +---src
+¦   +---lines-and-columns
+¦   ¦   +---build
+¦   +---lodash
+¦   ¦   +---fp
+¦   +---lodash.castarray
+¦   +---lodash.isplainobject
+¦   +---lodash.merge
+¦   +---loose-envify
+¦   +---lru-cache
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---lucide-react
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---esm
+¦   ¦       ¦   +---icons
+¦   ¦       ¦   +---shared
+¦   ¦       ¦       +---src
+¦   ¦       +---umd
+¦   +---merge2
+¦   +---micromatch
+¦   +---mime-db
+¦   +---mime-types
+¦   +---mini-svg-data-uri
+¦   +---minimatch
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---minipass
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---motion-dom
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---es
+¦   ¦           +---gestures
+¦   ¦           ¦   +---drag
+¦   ¦           ¦   ¦   +---state
+¦   ¦           ¦   +---press
+¦   ¦           ¦   ¦   +---utils
+¦   ¦           ¦   +---utils
+¦   ¦           +---utils
+¦   +---motion-utils
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---es
+¦   +---ms
+¦   +---mz
+¦   +---nanoid
+¦   ¦   +---async
+¦   ¦   +---bin
+¦   ¦   +---non-secure
+¦   ¦   +---url-alphabet
+¦   +---node-addon-api
+¦   ¦   +---tools
+¦   +---node-releases
+¦   ¦   +---data
+¦   ¦       +---processed
+¦   ¦       +---release-schedule
+¦   +---normalize-path
+¦   +---normalize-range
+¦   +---object-assign
+¦   +---object-hash
+¦   ¦   +---dist
+¦   +---package-json-from-dist
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---path-key
+¦   +---path-parse
+¦   +---path-scurry
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---picocolors
+¦   +---picomatch
+¦   ¦   +---lib
+¦   +---pify
+¦   +---pirates
+¦   ¦   +---lib
+¦   +---postcss
+¦   ¦   +---lib
+¦   +---postcss-import
+¦   ¦   +---lib
+¦   +---postcss-js
+¦   +---postcss-load-config
+¦   ¦   +---src
+¦   +---postcss-nested
+¦   +---postcss-selector-parser
+¦   ¦   +---dist
+¦   ¦       +---selectors
+¦   ¦       +---util
+¦   +---postcss-value-parser
+¦   ¦   +---lib
+¦   +---prop-types
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦       +---react-is
+¦   ¦           +---cjs
+¦   ¦           +---umd
+¦   +---proxy-from-env
+¦   +---queue-microtask
+¦   +---react
+¦   ¦   +---cjs
+¦   ¦   +---umd
+¦   +---react-dom
+¦   ¦   +---cjs
+¦   ¦   +---umd
+¦   +---react-intersection-observer
+¦   ¦   +---dist
+¦   ¦   ¦   +---esm
+¦   ¦   +---test-utils
+¦   +---react-is
+¦   ¦   +---cjs
+¦   ¦   +---umd
+¦   +---react-refresh
+¦   ¦   +---cjs
+¦   +---react-smooth
+¦   ¦   +---es6
+¦   ¦   +---lib
+¦   ¦   +---src
+¦   ¦   +---umd
+¦   +---react-transition-group
+¦   ¦   +---cjs
+¦   ¦   ¦   +---utils
+¦   ¦   +---config
+¦   ¦   +---CSSTransition
+¦   ¦   +---dist
+¦   ¦   +---esm
+¦   ¦   ¦   +---utils
+¦   ¦   +---ReplaceTransition
+¦   ¦   +---SwitchTransition
+¦   ¦   +---Transition
+¦   ¦   +---TransitionGroup
+¦   ¦   +---TransitionGroupContext
+¦   +---read-cache
+¦   +---readdirp
+¦   +---recharts
+¦   ¦   +---es6
+¦   ¦   ¦   +---cartesian
+¦   ¦   ¦   +---chart
+¦   ¦   ¦   +---component
+¦   ¦   ¦   +---container
+¦   ¦   ¦   +---context
+¦   ¦   ¦   +---numberAxis
+¦   ¦   ¦   +---polar
+¦   ¦   ¦   +---shape
+¦   ¦   ¦   +---util
+¦   ¦   ¦       +---cursor
+¦   ¦   ¦       +---payload
+¦   ¦   ¦       +---tooltip
+¦   ¦   +---lib
+¦   ¦   ¦   +---cartesian
+¦   ¦   ¦   +---chart
+¦   ¦   ¦   +---component
+¦   ¦   ¦   +---container
+¦   ¦   ¦   +---context
+¦   ¦   ¦   +---numberAxis
+¦   ¦   ¦   +---polar
+¦   ¦   ¦   +---shape
+¦   ¦   ¦   +---util
+¦   ¦   ¦       +---cursor
+¦   ¦   ¦       +---payload
+¦   ¦   ¦       +---tooltip
+¦   ¦   +---types
+¦   ¦   ¦   +---cartesian
+¦   ¦   ¦   +---chart
+¦   ¦   ¦   +---component
+¦   ¦   ¦   +---container
+¦   ¦   ¦   +---context
+¦   ¦   ¦   +---numberAxis
+¦   ¦   ¦   +---polar
+¦   ¦   ¦   +---shape
+¦   ¦   ¦   +---util
+¦   ¦   ¦       +---cursor
+¦   ¦   ¦       +---payload
+¦   ¦   ¦       +---tooltip
+¦   ¦   +---umd
+¦   +---recharts-scale
+¦   ¦   +---es6
+¦   ¦   ¦   +---util
+¦   ¦   +---lib
+¦   ¦   ¦   +---util
+¦   ¦   +---src
+¦   ¦   ¦   +---util
+¦   ¦   +---umd
+¦   +---regenerator-runtime
+¦   +---resolve
+¦   ¦   +---.github
+¦   ¦   +---bin
+¦   ¦   +---example
+¦   ¦   +---lib
+¦   ¦   +---test
+¦   ¦       +---dotdot
+¦   ¦       ¦   +---abc
+¦   ¦       +---module_dir
+¦   ¦       ¦   +---xmodules
+¦   ¦       ¦   ¦   +---aaa
+¦   ¦       ¦   +---ymodules
+¦   ¦       ¦   ¦   +---aaa
+¦   ¦       ¦   +---zmodules
+¦   ¦       ¦       +---bbb
+¦   ¦       +---node_path
+¦   ¦       ¦   +---x
+¦   ¦       ¦   ¦   +---aaa
+¦   ¦       ¦   ¦   +---ccc
+¦   ¦       ¦   +---y
+¦   ¦       ¦       +---bbb
+¦   ¦       ¦       +---ccc
+¦   ¦       +---pathfilter
+¦   ¦       ¦   +---deep_ref
+¦   ¦       +---precedence
+¦   ¦       ¦   +---aaa
+¦   ¦       ¦   +---bbb
+¦   ¦       +---resolver
+¦   ¦       ¦   +---baz
+¦   ¦       ¦   +---browser_field
+¦   ¦       ¦   +---dot_main
+¦   ¦       ¦   +---dot_slash_main
+¦   ¦       ¦   +---false_main
+¦   ¦       ¦   +---incorrect_main
+¦   ¦       ¦   +---invalid_main
+¦   ¦       ¦   +---multirepo
+¦   ¦       ¦   ¦   +---packages
+¦   ¦       ¦   ¦       +---package-a
+¦   ¦       ¦   ¦       +---package-b
+¦   ¦       ¦   +---nested_symlinks
+¦   ¦       ¦   ¦   +---mylib
+¦   ¦       ¦   +---other_path
+¦   ¦       ¦   ¦   +---lib
+¦   ¦       ¦   +---quux
+¦   ¦       ¦   ¦   +---foo
+¦   ¦       ¦   +---same_names
+¦   ¦       ¦   ¦   +---foo
+¦   ¦       ¦   +---symlinked
+¦   ¦       ¦   ¦   +---package
+¦   ¦       ¦   ¦   +---_
+¦   ¦       ¦   ¦       +---node_modules
+¦   ¦       ¦   ¦       +---symlink_target
+¦   ¦       ¦   +---without_basedir
+¦   ¦       +---shadowed_core
+¦   ¦           +---node_modules
+¦   ¦               +---util
+¦   +---reusify
+¦   ¦   +---benchmarks
+¦   +---rollup
+¦   ¦   +---dist
+¦   ¦       +---bin
+¦   ¦       +---es
+¦   ¦       ¦   +---shared
+¦   ¦       +---shared
+¦   +---run-parallel
+¦   +---sass
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---chokidar
+¦   ¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---readdirp
+¦   ¦   ¦       +---esm
+¦   ¦   +---types
+¦   ¦       +---legacy
+¦   ¦       +---logger
+¦   ¦       +---util
+¦   ¦       +---value
+¦   +---scheduler
+¦   ¦   +---cjs
+¦   ¦   +---umd
+¦   +---semver
+¦   ¦   +---bin
+¦   +---shebang-command
+¦   +---shebang-regex
+¦   +---signal-exit
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---mjs
+¦   +---source-map-js
+¦   ¦   +---lib
+¦   +---string-width
+¦   +---string-width-cjs
+¦   ¦   +---node_modules
+¦   ¦       +---ansi-regex
+¦   ¦       +---emoji-regex
+¦   ¦       ¦   +---es2015
+¦   ¦       +---strip-ansi
+¦   +---strip-ansi
+¦   +---strip-ansi-cjs
+¦   ¦   +---node_modules
+¦   ¦       +---ansi-regex
+¦   +---sucrase
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   +---plugins
+¦   ¦   ¦   ¦   ¦   ¦   +---jsx
+¦   ¦   ¦   ¦   ¦   +---tokenizer
+¦   ¦   ¦   ¦   ¦   +---traverser
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---transformers
+¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   +---plugins
+¦   ¦   ¦   ¦   ¦   +---jsx
+¦   ¦   ¦   ¦   +---tokenizer
+¦   ¦   ¦   ¦   +---traverser
+¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   +---transformers
+¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   +---plugins
+¦   ¦   ¦   ¦   ¦   ¦   +---jsx
+¦   ¦   ¦   ¦   ¦   +---tokenizer
+¦   ¦   ¦   ¦   ¦   +---traverser
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---transformers
+¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   +---util
+¦   ¦   +---register
+¦   ¦   +---ts-node-plugin
+¦   +---supports-preserve-symlinks-flag
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---tailwindcss
+¦   ¦   +---lib
+¦   ¦   ¦   +---cli
+¦   ¦   ¦   ¦   +---build
+¦   ¦   ¦   ¦   +---help
+¦   ¦   ¦   ¦   +---init
+¦   ¦   ¦   +---css
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---postcss-plugins
+¦   ¦   ¦   ¦   +---nesting
+¦   ¦   ¦   +---public
+¦   ¦   ¦   +---util
+¦   ¦   ¦   +---value-parser
+¦   ¦   +---nesting
+¦   ¦   +---peers
+¦   ¦   +---scripts
+¦   ¦   +---src
+¦   ¦   ¦   +---cli
+¦   ¦   ¦   ¦   +---build
+¦   ¦   ¦   ¦   +---help
+¦   ¦   ¦   ¦   +---init
+¦   ¦   ¦   +---css
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---postcss-plugins
+¦   ¦   ¦   ¦   +---nesting
+¦   ¦   ¦   +---public
+¦   ¦   ¦   +---util
+¦   ¦   ¦   +---value-parser
+¦   ¦   +---stubs
+¦   ¦   +---types
+¦   ¦       +---generated
+¦   +---thenify
+¦   +---thenify-all
+¦   +---tiny-invariant
+¦   ¦   +---dist
+¦   ¦   ¦   +---esm
+¦   ¦   +---src
+¦   +---to-regex-range
+¦   +---ts-interface-checker
+¦   ¦   +---dist
+¦   +---tslib
+¦   ¦   +---modules
+¦   +---update-browserslist-db
+¦   +---util-deprecate
+¦   +---victory-vendor
+¦   ¦   +---es
+¦   ¦   +---lib
+¦   ¦   +---lib-vendor
+¦   ¦       +---d3-array
+¦   ¦       ¦   +---src
+¦   ¦       ¦       +---threshold
+¦   ¦       +---d3-color
+¦   ¦       ¦   +---src
+¦   ¦       +---d3-ease
+¦   ¦       ¦   +---src
+¦   ¦       +---d3-format
+¦   ¦       ¦   +---src
+¦   ¦       +---d3-interpolate
+¦   ¦       ¦   +---src
+¦   ¦       ¦       +---transform
+¦   ¦       +---d3-path
+¦   ¦       ¦   +---src
+¦   ¦       +---d3-scale
+¦   ¦       ¦   +---src
+¦   ¦       +---d3-shape
+¦   ¦       ¦   +---src
+¦   ¦       ¦       +---curve
+¦   ¦       ¦       +---offset
+¦   ¦       ¦       +---order
+¦   ¦       ¦       +---symbol
+¦   ¦       +---d3-time
+¦   ¦       ¦   +---src
+¦   ¦       +---d3-time-format
+¦   ¦       ¦   +---src
+¦   ¦       +---d3-timer
+¦   ¦       ¦   +---src
+¦   ¦       +---d3-voronoi
+¦   ¦       ¦   +---src
+¦   ¦       +---internmap
+¦   ¦           +---src
+¦   +---vite
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   ¦   +---client
+¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   +---chunks
+¦   ¦   ¦   +---node-cjs
+¦   ¦   +---types
+¦   +---vite-plugin-full-reload
+¦   ¦   +---dist
+¦   +---which
+¦   ¦   +---bin
+¦   +---wrap-ansi
+¦   +---wrap-ansi-cjs
+¦   ¦   +---node_modules
+¦   ¦       +---ansi-regex
+¦   ¦       +---ansi-styles
+¦   ¦       +---emoji-regex
+¦   ¦       ¦   +---es2015
+¦   ¦       +---string-width
+¦   ¦       +---strip-ansi
+¦   +---yallist
+¦   +---yaml
+¦       +---browser
+¦       ¦   +---dist
+¦       ¦       +---compose
+¦       ¦       +---doc
+¦       ¦       +---nodes
+¦       ¦       +---parse
+¦       ¦       +---schema
+¦       ¦       ¦   +---common
+¦       ¦       ¦   +---core
+¦       ¦       ¦   +---json
+¦       ¦       ¦   +---yaml-1.1
+¦       ¦       +---stringify
+¦       +---dist
+¦           +---compose
+¦           +---doc
+¦           +---nodes
+¦           +---parse
+¦           +---schema
+¦           ¦   +---common
+¦           ¦   +---core
+¦           ¦   +---json
+¦           ¦   +---yaml-1.1
+¦           +---stringify
++---public
+¦   +---css
+¦   ¦   +---filament
+¦   ¦       +---filament
+¦   ¦       +---forms
+¦   ¦       +---support
+¦   +---img
+¦   +---js
+¦       +---filament
+¦           +---filament
+¦           +---forms
+¦           ¦   +---components
+¦           +---notifications
+¦           +---support
+¦           +---tables
+¦           +---widgets
+¦               +---components
+¦                   +---stats-overview
+¦                       +---stat
++---resources
+¦   +---css
+¦   +---js
+¦   ¦   +---components
+¦   +---sass
+¦   +---views
+¦       +---admin
+¦       ¦   +---orders
+¦       ¦   +---products
+¦       ¦   +---users
+¦       +---auth
+¦       +---cart
+¦       +---components
+¦       +---emails
+¦       ¦   +---contact
+¦       +---layouts
+¦       +---orders
+¦       +---products
+¦       +---profile
+¦           +---partials
++---routes
++---storage
+¦   +---app
+¦   ¦   +---public
+¦   ¦       +---products
+¦   +---framework
+¦   ¦   +---cache
+¦   ¦   ¦   +---data
+¦   ¦   +---sessions
+¦   ¦   +---testing
+¦   ¦   +---views
+¦   +---logs
++---tests
+¦   +---Feature
+¦   ¦   +---Auth
+¦   +---Unit
++---vendor
+    +---bin
+    +---blade-ui-kit
+    ¦   +---blade-heroicons
+    ¦   ¦   +---config
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---svg
+    ¦   ¦   +---src
+    ¦   +---blade-icons
+    ¦       +---bin
+    ¦       +---config
+    ¦       +---src
+    ¦           +---Components
+    ¦           +---Concerns
+    ¦           +---Console
+    ¦           +---Exceptions
+    ¦           +---Generation
+    +---brianium
+    ¦   +---paratest
+    ¦       +---bin
+    ¦       +---src
+    ¦           +---Coverage
+    ¦           +---JUnit
+    ¦           +---Util
+    ¦           +---WrapperRunner
+    +---brick
+    ¦   +---math
+    ¦       +---src
+    ¦           +---Exception
+    ¦           +---Internal
+    ¦               +---Calculator
+    +---carbonphp
+    ¦   +---carbon-doctrine-types
+    ¦       +---src
+    ¦           +---Carbon
+    ¦               +---Doctrine
+    +---composer
+    +---danharrin
+    ¦   +---date-format-converter
+    ¦   ¦   +---.github
+    ¦   ¦   ¦   +---ISSUE_TEMPLATE
+    ¦   ¦   +---src
+    ¦   +---livewire-rate-limiting
+    ¦       +---.github
+    ¦       ¦   +---ISSUE_TEMPLATE
+    ¦       ¦   +---workflows
+    ¦       +---src
+    ¦       ¦   +---Exceptions
+    ¦       +---tests
+    ¦           +---views
+    +---darryldecode
+    ¦   +---cart
+    ¦       +---src
+    ¦       ¦   +---Darryldecode
+    ¦       ¦       +---Cart
+    ¦       ¦           +---config
+    ¦       ¦           +---Exceptions
+    ¦       ¦           +---Facades
+    ¦       ¦           +---Helpers
+    ¦       ¦           +---Validators
+    ¦       +---tests
+    ¦           +---helpers
+    +---dflydev
+    ¦   +---dot-access-data
+    ¦       +---src
+    ¦           +---Exception
+    +---doctrine
+    ¦   +---cache
+    ¦   ¦   +---lib
+    ¦   ¦       +---Doctrine
+    ¦   ¦           +---Common
+    ¦   ¦               +---Cache
+    ¦   ¦                   +---Psr6
+    ¦   +---dbal
+    ¦   ¦   +---bin
+    ¦   ¦   +---src
+    ¦   ¦       +---ArrayParameters
+    ¦   ¦       ¦   +---Exception
+    ¦   ¦       +---Cache
+    ¦   ¦       +---Connections
+    ¦   ¦       +---Driver
+    ¦   ¦       ¦   +---AbstractOracleDriver
+    ¦   ¦       ¦   +---AbstractSQLiteDriver
+    ¦   ¦       ¦   ¦   +---Middleware
+    ¦   ¦       ¦   +---AbstractSQLServerDriver
+    ¦   ¦       ¦   ¦   +---Exception
+    ¦   ¦       ¦   +---API
+    ¦   ¦       ¦   ¦   +---IBMDB2
+    ¦   ¦       ¦   ¦   +---MySQL
+    ¦   ¦       ¦   ¦   +---OCI
+    ¦   ¦       ¦   ¦   +---PostgreSQL
+    ¦   ¦       ¦   ¦   +---SQLite
+    ¦   ¦       ¦   ¦   +---SQLSrv
+    ¦   ¦       ¦   +---Exception
+    ¦   ¦       ¦   +---IBMDB2
+    ¦   ¦       ¦   ¦   +---Exception
+    ¦   ¦       ¦   +---Middleware
+    ¦   ¦       ¦   +---Mysqli
+    ¦   ¦       ¦   ¦   +---Exception
+    ¦   ¦       ¦   ¦   +---Initializer
+    ¦   ¦       ¦   +---OCI8
+    ¦   ¦       ¦   ¦   +---Exception
+    ¦   ¦       ¦   ¦   +---Middleware
+    ¦   ¦       ¦   +---PDO
+    ¦   ¦       ¦   ¦   +---MySQL
+    ¦   ¦       ¦   ¦   +---OCI
+    ¦   ¦       ¦   ¦   +---PgSQL
+    ¦   ¦       ¦   ¦   +---SQLite
+    ¦   ¦       ¦   ¦   +---SQLSrv
+    ¦   ¦       ¦   +---PgSQL
+    ¦   ¦       ¦   ¦   +---Exception
+    ¦   ¦       ¦   +---SQLite3
+    ¦   ¦       ¦   +---SQLSrv
+    ¦   ¦       ¦       +---Exception
+    ¦   ¦       +---Event
+    ¦   ¦       ¦   +---Listeners
+    ¦   ¦       +---Exception
+    ¦   ¦       +---Id
+    ¦   ¦       +---Logging
+    ¦   ¦       +---Platforms
+    ¦   ¦       ¦   +---Keywords
+    ¦   ¦       ¦   +---MySQL
+    ¦   ¦       ¦   ¦   +---CollationMetadataProvider
+    ¦   ¦       ¦   +---SQLite
+    ¦   ¦       ¦   +---SQLServer
+    ¦   ¦       ¦       +---SQL
+    ¦   ¦       ¦           +---Builder
+    ¦   ¦       +---Portability
+    ¦   ¦       +---Query
+    ¦   ¦       ¦   +---Expression
+    ¦   ¦       ¦   +---ForUpdate
+    ¦   ¦       +---Schema
+    ¦   ¦       ¦   +---Exception
+    ¦   ¦       ¦   +---Visitor
+    ¦   ¦       +---SQL
+    ¦   ¦       ¦   +---Builder
+    ¦   ¦       ¦   +---Parser
+    ¦   ¦       ¦       +---Exception
+    ¦   ¦       +---Tools
+    ¦   ¦       ¦   +---Console
+    ¦   ¦       ¦       +---Command
+    ¦   ¦       ¦       +---ConnectionProvider
+    ¦   ¦       +---Types
+    ¦   +---deprecations
+    ¦   ¦   +---src
+    ¦   ¦       +---PHPUnit
+    ¦   +---event-manager
+    ¦   ¦   +---src
+    ¦   +---inflector
+    ¦   ¦   +---docs
+    ¦   ¦   ¦   +---en
+    ¦   ¦   +---lib
+    ¦   ¦       +---Doctrine
+    ¦   ¦           +---Inflector
+    ¦   ¦               +---Rules
+    ¦   ¦                   +---English
+    ¦   ¦                   +---French
+    ¦   ¦                   +---NorwegianBokmal
+    ¦   ¦                   +---Portuguese
+    ¦   ¦                   +---Spanish
+    ¦   ¦                   +---Turkish
+    ¦   +---lexer
+    ¦       +---src
+    +---dragonmantank
+    ¦   +---cron-expression
+    ¦       +---src
+    ¦           +---Cron
+    +---egulias
+    ¦   +---email-validator
+    ¦       +---src
+    ¦           +---Parser
+    ¦           ¦   +---CommentStrategy
+    ¦           +---Result
+    ¦           ¦   +---Reason
+    ¦           +---Validation
+    ¦           ¦   +---Exception
+    ¦           ¦   +---Extra
+    ¦           +---Warning
+    +---fakerphp
+    ¦   +---faker
+    ¦       +---src
+    ¦           +---Faker
+    ¦               +---Calculator
+    ¦               +---Container
+    ¦               +---Core
+    ¦               +---Extension
+    ¦               +---Guesser
+    ¦               +---ORM
+    ¦               ¦   +---CakePHP
+    ¦               ¦   +---Doctrine
+    ¦               ¦   +---Mandango
+    ¦               ¦   +---Propel
+    ¦               ¦   +---Propel2
+    ¦               ¦   +---Spot
+    ¦               +---Provider
+    ¦                   +---ar_EG
+    ¦                   +---ar_JO
+    ¦                   +---ar_SA
+    ¦                   +---at_AT
+    ¦                   +---bg_BG
+    ¦                   +---bn_BD
+    ¦                   +---cs_CZ
+    ¦                   +---da_DK
+    ¦                   +---de_AT
+    ¦                   +---de_CH
+    ¦                   +---de_DE
+    ¦                   +---el_CY
+    ¦                   +---el_GR
+    ¦                   +---en_AU
+    ¦                   +---en_CA
+    ¦                   +---en_GB
+    ¦                   +---en_HK
+    ¦                   +---en_IN
+    ¦                   +---en_NG
+    ¦                   +---en_NZ
+    ¦                   +---en_PH
+    ¦                   +---en_SG
+    ¦                   +---en_UG
+    ¦                   +---en_US
+    ¦                   +---en_ZA
+    ¦                   +---es_AR
+    ¦                   +---es_ES
+    ¦                   +---es_PE
+    ¦                   +---es_VE
+    ¦                   +---et_EE
+    ¦                   +---fa_IR
+    ¦                   +---fi_FI
+    ¦                   +---fr_BE
+    ¦                   +---fr_CA
+    ¦                   +---fr_CH
+    ¦                   +---fr_FR
+    ¦                   +---he_IL
+    ¦                   +---hr_HR
+    ¦                   +---hu_HU
+    ¦                   +---hy_AM
+    ¦                   +---id_ID
+    ¦                   +---is_IS
+    ¦                   +---it_CH
+    ¦                   +---it_IT
+    ¦                   +---ja_JP
+    ¦                   +---ka_GE
+    ¦                   +---kk_KZ
+    ¦                   +---ko_KR
+    ¦                   +---lt_LT
+    ¦                   +---lv_LV
+    ¦                   +---me_ME
+    ¦                   +---mn_MN
+    ¦                   +---ms_MY
+    ¦                   +---nb_NO
+    ¦                   +---ne_NP
+    ¦                   +---nl_BE
+    ¦                   +---nl_NL
+    ¦                   +---pl_PL
+    ¦                   +---pt_BR
+    ¦                   +---pt_PT
+    ¦                   +---ro_MD
+    ¦                   +---ro_RO
+    ¦                   +---ru_RU
+    ¦                   +---sk_SK
+    ¦                   +---sl_SI
+    ¦                   +---sr_Cyrl_RS
+    ¦                   +---sr_Latn_RS
+    ¦                   +---sr_RS
+    ¦                   +---sv_SE
+    ¦                   +---th_TH
+    ¦                   +---tr_TR
+    ¦                   +---uk_UA
+    ¦                   +---vi_VN
+    ¦                   +---zh_CN
+    ¦                   +---zh_TW
+    +---fidry
+    ¦   +---cpu-core-counter
+    ¦       +---bin
+    ¦       +---src
+    ¦           +---Executor
+    ¦           +---Finder
+    +---filament
+    ¦   +---actions
+    ¦   ¦   +---docs
+    ¦   ¦   ¦   +---07-prebuilt-actions
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---lang
+    ¦   ¦   ¦   ¦   +---ar
+    ¦   ¦   ¦   ¦   +---bn
+    ¦   ¦   ¦   ¦   +---bs
+    ¦   ¦   ¦   ¦   +---cs
+    ¦   ¦   ¦   ¦   +---de
+    ¦   ¦   ¦   ¦   +---en
+    ¦   ¦   ¦   ¦   +---es
+    ¦   ¦   ¦   ¦   +---fa
+    ¦   ¦   ¦   ¦   +---fi
+    ¦   ¦   ¦   ¦   +---fr
+    ¦   ¦   ¦   ¦   +---he
+    ¦   ¦   ¦   ¦   +---hi
+    ¦   ¦   ¦   ¦   +---hu
+    ¦   ¦   ¦   ¦   +---hy
+    ¦   ¦   ¦   ¦   +---id
+    ¦   ¦   ¦   ¦   +---it
+    ¦   ¦   ¦   ¦   +---ja
+    ¦   ¦   ¦   ¦   +---kh
+    ¦   ¦   ¦   ¦   +---ko
+    ¦   ¦   ¦   ¦   +---ku
+    ¦   ¦   ¦   ¦   +---lt
+    ¦   ¦   ¦   ¦   +---mn
+    ¦   ¦   ¦   ¦   +---ms
+    ¦   ¦   ¦   ¦   +---my
+    ¦   ¦   ¦   ¦   +---nl
+    ¦   ¦   ¦   ¦   +---pl
+    ¦   ¦   ¦   ¦   +---pt_BR
+    ¦   ¦   ¦   ¦   +---pt_PT
+    ¦   ¦   ¦   ¦   +---ro
+    ¦   ¦   ¦   ¦   +---ru
+    ¦   ¦   ¦   ¦   +---sv
+    ¦   ¦   ¦   ¦   +---sw
+    ¦   ¦   ¦   ¦   +---tr
+    ¦   ¦   ¦   ¦   +---uk
+    ¦   ¦   ¦   ¦   +---vi
+    ¦   ¦   ¦   ¦   +---zh_CN
+    ¦   ¦   ¦   ¦   +---zh_TW
+    ¦   ¦   ¦   +---views
+    ¦   ¦   ¦       +---components
+    ¦   ¦   +---src
+    ¦   ¦       +---Concerns
+    ¦   ¦       +---Contracts
+    ¦   ¦       +---Exceptions
+    ¦   ¦       +---Modal
+    ¦   ¦       ¦   +---Actions
+    ¦   ¦       +---Testing
+    ¦   +---filament
+    ¦   ¦   +---dist
+    ¦   ¦   +---docs
+    ¦   ¦   ¦   +---03-resources
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---css
+    ¦   ¦   ¦   +---js
+    ¦   ¦   ¦   +---lang
+    ¦   ¦   ¦   ¦   +---ar
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---password-reset
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tenancy
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---bn
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---bs
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---cs
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---da
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---de
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦       +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦       +---password-reset
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---el
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---en
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---password-reset
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tenancy
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---es
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦       +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦       +---password-reset
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---fa
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---fi
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---fr
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---password-reset
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tenancy
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---he
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---hi
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---hu
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---hy
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---id
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---password-reset
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tenancy
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---it
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---ja
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---km
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---ko
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---ku
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---lt
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---lv
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---ms
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---my
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---nl
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦       +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦       +---password-reset
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---pl
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---pt_BR
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---password-reset
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tenancy
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---pt_PT
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---ro
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---ru
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---email-verification
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---password-reset
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tenancy
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---sv
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---sw
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---tr
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---uk
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---vi
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---zh_CN
+    ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   ¦   +---auth
+    ¦   ¦   ¦   ¦   ¦   +---resources
+    ¦   ¦   ¦   ¦   ¦   ¦   +---pages
+    ¦   ¦   ¦   ¦   ¦   +---widgets
+    ¦   ¦   ¦   ¦   +---zh_TW
+    ¦   ¦   ¦   ¦       +---pages
+    ¦   ¦   ¦   ¦       ¦   +---auth
+    ¦   ¦   ¦   ¦       +---resources
+    ¦   ¦   ¦   ¦       ¦   +---pages
+    ¦   ¦   ¦   ¦       +---widgets
+    ¦   ¦   ¦   +---views
+    ¦   ¦   ¦       +---components
+    ¦   ¦   ¦       ¦   +---avatar
+    ¦   ¦   ¦       ¦   +---form
+    ¦   ¦   ¦       ¦   +---global-search
+    ¦   ¦   ¦       ¦   +---header
+    ¦   ¦   ¦       ¦   +---layout
+    ¦   ¦   ¦       ¦   +---page
+    ¦   ¦   ¦       ¦   +---resources
+    ¦   ¦   ¦       ¦   +---sidebar
+    ¦   ¦   ¦       ¦   +---theme-switcher
+    ¦   ¦   ¦       ¦   +---topbar
+    ¦   ¦   ¦       +---pages
+    ¦   ¦   ¦       ¦   +---auth
+    ¦   ¦   ¦       ¦   ¦   +---email-verification
+    ¦   ¦   ¦       ¦   ¦   +---password-reset
+    ¦   ¦   ¦       ¦   +---tenancy
+    ¦   ¦   ¦       +---resources
+    ¦   ¦   ¦       ¦   +---pages
+    ¦   ¦   ¦       +---widgets
+    ¦   ¦   +---routes
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---AvatarProviders
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   +---Billing
+    ¦   ¦   ¦   ¦   +---Providers
+    ¦   ¦   ¦   ¦       +---Contracts
+    ¦   ¦   ¦   +---Commands
+    ¦   ¦   ¦   ¦   +---Aliases
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   +---Events
+    ¦   ¦   ¦   +---Exceptions
+    ¦   ¦   ¦   +---Facades
+    ¦   ¦   ¦   +---FontProviders
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   +---GlobalSearch
+    ¦   ¦   ¦   ¦   +---Actions
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   +---Http
+    ¦   ¦   ¦   ¦   +---Controllers
+    ¦   ¦   ¦   ¦   ¦   +---Auth
+    ¦   ¦   ¦   ¦   +---Livewire
+    ¦   ¦   ¦   ¦   ¦   +---Auth
+    ¦   ¦   ¦   ¦   +---Middleware
+    ¦   ¦   ¦   ¦   +---Responses
+    ¦   ¦   ¦   ¦       +---Auth
+    ¦   ¦   ¦   ¦           +---Contracts
+    ¦   ¦   ¦   +---Listeners
+    ¦   ¦   ¦   ¦   +---Auth
+    ¦   ¦   ¦   +---Livewire
+    ¦   ¦   ¦   +---Models
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   +---Navigation
+    ¦   ¦   ¦   +---Notifications
+    ¦   ¦   ¦   ¦   +---Auth
+    ¦   ¦   ¦   +---Pages
+    ¦   ¦   ¦   ¦   +---Actions
+    ¦   ¦   ¦   ¦   ¦   +---Modal
+    ¦   ¦   ¦   ¦   ¦       +---Actions
+    ¦   ¦   ¦   ¦   +---Auth
+    ¦   ¦   ¦   ¦   ¦   +---EmailVerification
+    ¦   ¦   ¦   ¦   ¦   +---PasswordReset
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Tenancy
+    ¦   ¦   ¦   +---Panel
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Resources
+    ¦   ¦   ¦   ¦   +---Pages
+    ¦   ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   ¦   +---CreateRecord
+    ¦   ¦   ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   ¦   +---EditRecord
+    ¦   ¦   ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   ¦   +---ListRecords
+    ¦   ¦   ¦   ¦   +---RelationManagers
+    ¦   ¦   ¦   +---View
+    ¦   ¦   ¦   ¦   +---LegacyComponents
+    ¦   ¦   ¦   +---Widgets
+    ¦   ¦   ¦       +---Concerns
+    ¦   ¦   +---stubs
+    ¦   +---forms
+    ¦   ¦   +---dist
+    ¦   ¦   ¦   +---components
+    ¦   ¦   +---docs
+    ¦   ¦   ¦   +---03-fields
+    ¦   ¦   ¦   +---04-layout
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---css
+    ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   +---js
+    ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦       +---markdown-editor
+    ¦   ¦   ¦   +---lang
+    ¦   ¦   ¦   ¦   +---ar
+    ¦   ¦   ¦   ¦   +---bn
+    ¦   ¦   ¦   ¦   +---bs
+    ¦   ¦   ¦   ¦   +---ca
+    ¦   ¦   ¦   ¦   +---cs
+    ¦   ¦   ¦   ¦   +---cy
+    ¦   ¦   ¦   ¦   +---da
+    ¦   ¦   ¦   ¦   +---de
+    ¦   ¦   ¦   ¦   +---en
+    ¦   ¦   ¦   ¦   +---es
+    ¦   ¦   ¦   ¦   +---eu
+    ¦   ¦   ¦   ¦   +---fa
+    ¦   ¦   ¦   ¦   +---fi
+    ¦   ¦   ¦   ¦   +---fr
+    ¦   ¦   ¦   ¦   +---he
+    ¦   ¦   ¦   ¦   +---hi
+    ¦   ¦   ¦   ¦   +---hu
+    ¦   ¦   ¦   ¦   +---hy
+    ¦   ¦   ¦   ¦   +---id
+    ¦   ¦   ¦   ¦   +---it
+    ¦   ¦   ¦   ¦   +---ja
+    ¦   ¦   ¦   ¦   +---ka
+    ¦   ¦   ¦   ¦   +---ku
+    ¦   ¦   ¦   ¦   +---lt
+    ¦   ¦   ¦   ¦   +---lv
+    ¦   ¦   ¦   ¦   +---mn
+    ¦   ¦   ¦   ¦   +---ms
+    ¦   ¦   ¦   ¦   +---my
+    ¦   ¦   ¦   ¦   +---nl
+    ¦   ¦   ¦   ¦   +---pl
+    ¦   ¦   ¦   ¦   +---pt_BR
+    ¦   ¦   ¦   ¦   +---pt_PT
+    ¦   ¦   ¦   ¦   +---ro
+    ¦   ¦   ¦   ¦   +---ru
+    ¦   ¦   ¦   ¦   +---sv
+    ¦   ¦   ¦   ¦   +---sw
+    ¦   ¦   ¦   ¦   +---tr
+    ¦   ¦   ¦   ¦   +---uk
+    ¦   ¦   ¦   ¦   +---vi
+    ¦   ¦   ¦   ¦   +---zh_CN
+    ¦   ¦   ¦   ¦   +---zh_TW
+    ¦   ¦   ¦   +---views
+    ¦   ¦   ¦       +---components
+    ¦   ¦   ¦           +---actions
+    ¦   ¦   ¦           +---builder
+    ¦   ¦   ¦           +---field-wrapper
+    ¦   ¦   ¦           +---rich-editor
+    ¦   ¦   ¦           ¦   +---toolbar
+    ¦   ¦   ¦           +---tabs
+    ¦   ¦   ¦           +---wizard
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---Commands
+    ¦   ¦   ¦   ¦   +---Aliases
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Components
+    ¦   ¦   ¦   ¦   +---Actions
+    ¦   ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Builder
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   ¦   +---MorphToSelect
+    ¦   ¦   ¦   ¦   +---Tabs
+    ¦   ¦   ¦   ¦   +---Wizard
+    ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   +---Testing
+    ¦   ¦   +---stubs
+    ¦   +---infolists
+    ¦   ¦   +---docs
+    ¦   ¦   ¦   +---03-entries
+    ¦   ¦   ¦   +---04-layout
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---lang
+    ¦   ¦   ¦   ¦   +---ar
+    ¦   ¦   ¦   ¦   +---en
+    ¦   ¦   ¦   ¦   +---es
+    ¦   ¦   ¦   ¦   +---fr
+    ¦   ¦   ¦   ¦   +---pt_BR
+    ¦   ¦   ¦   +---views
+    ¦   ¦   ¦       +---components
+    ¦   ¦   ¦           +---actions
+    ¦   ¦   ¦           +---entry-wrapper
+    ¦   ¦   ¦           +---tabs
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---Commands
+    ¦   ¦   ¦   ¦   +---Aliases
+    ¦   ¦   ¦   +---Components
+    ¦   ¦   ¦   ¦   +---Actions
+    ¦   ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   ¦   +---IconEntry
+    ¦   ¦   ¦   ¦   +---Tabs
+    ¦   ¦   ¦   ¦   +---TextEntry
+    ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Contracts
+    ¦   ¦   +---stubs
+    ¦   +---notifications
+    ¦   ¦   +---dist
+    ¦   ¦   +---docs
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---js
+    ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   +---lang
+    ¦   ¦   ¦   ¦   +---ar
+    ¦   ¦   ¦   ¦   +---bn
+    ¦   ¦   ¦   ¦   +---bs
+    ¦   ¦   ¦   ¦   +---cs
+    ¦   ¦   ¦   ¦   +---cy
+    ¦   ¦   ¦   ¦   +---da
+    ¦   ¦   ¦   ¦   +---de
+    ¦   ¦   ¦   ¦   +---en
+    ¦   ¦   ¦   ¦   +---es
+    ¦   ¦   ¦   ¦   +---eu
+    ¦   ¦   ¦   ¦   +---fa
+    ¦   ¦   ¦   ¦   +---fi
+    ¦   ¦   ¦   ¦   +---fr
+    ¦   ¦   ¦   ¦   +---he
+    ¦   ¦   ¦   ¦   +---id
+    ¦   ¦   ¦   ¦   +---it
+    ¦   ¦   ¦   ¦   +---ja
+    ¦   ¦   ¦   ¦   +---ku
+    ¦   ¦   ¦   ¦   +---lv
+    ¦   ¦   ¦   ¦   +---ms
+    ¦   ¦   ¦   ¦   +---nl
+    ¦   ¦   ¦   ¦   +---pl
+    ¦   ¦   ¦   ¦   +---pt_BR
+    ¦   ¦   ¦   ¦   +---ro
+    ¦   ¦   ¦   ¦   +---ru
+    ¦   ¦   ¦   ¦   +---sv
+    ¦   ¦   ¦   ¦   +---sw
+    ¦   ¦   ¦   ¦   +---tr
+    ¦   ¦   ¦   ¦   +---uk
+    ¦   ¦   ¦   ¦   +---vi
+    ¦   ¦   ¦   +---views
+    ¦   ¦   ¦       +---components
+    ¦   ¦   ¦           +---database
+    ¦   ¦   ¦               +---modal
+    ¦   ¦   +---src
+    ¦   ¦       +---Actions
+    ¦   ¦       +---Concerns
+    ¦   ¦       +---Events
+    ¦   ¦       +---Livewire
+    ¦   ¦       +---Testing
+    ¦   +---support
+    ¦   ¦   +---config
+    ¦   ¦   +---dist
+    ¦   ¦   +---docs
+    ¦   ¦   ¦   +---08-plugins
+    ¦   ¦   ¦   +---09-blade-components
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---js
+    ¦   ¦   ¦   +---lang
+    ¦   ¦   ¦   ¦   +---ar
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---bn
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---bs
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---ca
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---cs
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---cy
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---da
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---de
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---en
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---es
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---eu
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---fa
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---fi
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---fr
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---he
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---hi
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---hu
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---hy
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---id
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---it
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---ja
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---ka
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---ko
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---ku
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---lt
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---lv
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---mn
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---ms
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---nl
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---pl
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---pt_BR
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---pt_PT
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---ro
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---ru
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---sv
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---sw
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---tr
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---uk
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---vi
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---zh_CN
+    ¦   ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---zh_TW
+    ¦   ¦   ¦   ¦       +---components
+    ¦   ¦   ¦   +---views
+    ¦   ¦   ¦       +---components
+    ¦   ¦   ¦           +---button
+    ¦   ¦   ¦           +---dropdown
+    ¦   ¦   ¦           ¦   +---list
+    ¦   ¦   ¦           +---grid
+    ¦   ¦   ¦           +---input
+    ¦   ¦   ¦           +---modal
+    ¦   ¦   ¦           +---pagination
+    ¦   ¦   ¦           +---section
+    ¦   ¦   ¦           +---tabs
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---Assets
+    ¦   ¦   ¦   +---Colors
+    ¦   ¦   ¦   +---Commands
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Components
+    ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   +---Enums
+    ¦   ¦   ¦   +---Exceptions
+    ¦   ¦   ¦   +---Facades
+    ¦   ¦   ¦   +---Icons
+    ¦   ¦   ¦   +---View
+    ¦   ¦   ¦       +---Components
+    ¦   ¦   +---stubs
+    ¦   ¦       +---scaffolding
+    ¦   ¦           +---resources
+    ¦   ¦               +---css
+    ¦   ¦               +---js
+    ¦   ¦               +---views
+    ¦   ¦                   +---components
+    ¦   ¦                       +---layouts
+    ¦   +---tables
+    ¦   ¦   +---dist
+    ¦   ¦   +---docs
+    ¦   ¦   ¦   +---03-columns
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---js
+    ¦   ¦   ¦   +---lang
+    ¦   ¦   ¦   ¦   +---ar
+    ¦   ¦   ¦   ¦   +---bn
+    ¦   ¦   ¦   ¦   +---bs
+    ¦   ¦   ¦   ¦   +---ca
+    ¦   ¦   ¦   ¦   +---cs
+    ¦   ¦   ¦   ¦   +---cy
+    ¦   ¦   ¦   ¦   +---da
+    ¦   ¦   ¦   ¦   +---de
+    ¦   ¦   ¦   ¦   +---en
+    ¦   ¦   ¦   ¦   +---es
+    ¦   ¦   ¦   ¦   +---eu
+    ¦   ¦   ¦   ¦   +---fa
+    ¦   ¦   ¦   ¦   +---fi
+    ¦   ¦   ¦   ¦   +---fr
+    ¦   ¦   ¦   ¦   +---he
+    ¦   ¦   ¦   ¦   +---hi
+    ¦   ¦   ¦   ¦   +---hu
+    ¦   ¦   ¦   ¦   +---hy
+    ¦   ¦   ¦   ¦   +---id
+    ¦   ¦   ¦   ¦   +---it
+    ¦   ¦   ¦   ¦   +---ja
+    ¦   ¦   ¦   ¦   +---ka
+    ¦   ¦   ¦   ¦   +---ku
+    ¦   ¦   ¦   ¦   +---lt
+    ¦   ¦   ¦   ¦   +---lv
+    ¦   ¦   ¦   ¦   +---mn
+    ¦   ¦   ¦   ¦   +---ms
+    ¦   ¦   ¦   ¦   +---nl
+    ¦   ¦   ¦   ¦   +---pl
+    ¦   ¦   ¦   ¦   +---pt_BR
+    ¦   ¦   ¦   ¦   +---pt_PT
+    ¦   ¦   ¦   ¦   +---ro
+    ¦   ¦   ¦   ¦   +---ru
+    ¦   ¦   ¦   ¦   +---sv
+    ¦   ¦   ¦   ¦   +---sw
+    ¦   ¦   ¦   ¦   +---tr
+    ¦   ¦   ¦   ¦   +---uk
+    ¦   ¦   ¦   ¦   +---vi
+    ¦   ¦   ¦   ¦   +---zh_CN
+    ¦   ¦   ¦   ¦   +---zh_TW
+    ¦   ¦   ¦   +---views
+    ¦   ¦   ¦       +---columns
+    ¦   ¦   ¦       ¦   +---layout
+    ¦   ¦   ¦       ¦   +---summaries
+    ¦   ¦   ¦       +---components
+    ¦   ¦   ¦           +---actions
+    ¦   ¦   ¦           +---column-toggle
+    ¦   ¦   ¦           +---columns
+    ¦   ¦   ¦           +---empty-state
+    ¦   ¦   ¦           +---filters
+    ¦   ¦   ¦           +---group
+    ¦   ¦   ¦           +---reorder
+    ¦   ¦   ¦           +---selection
+    ¦   ¦   ¦           +---summary
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---Actions
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   ¦   +---Modal
+    ¦   ¦   ¦   ¦       +---Actions
+    ¦   ¦   ¦   +---Columns
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   ¦   +---IconColumn
+    ¦   ¦   ¦   ¦   +---Layout
+    ¦   ¦   ¦   ¦   +---Summarizers
+    ¦   ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---TextColumn
+    ¦   ¦   ¦   +---Commands
+    ¦   ¦   ¦   ¦   +---Aliases
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   +---Enums
+    ¦   ¦   ¦   +---Filters
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Grouping
+    ¦   ¦   ¦   +---Support
+    ¦   ¦   ¦   +---Table
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Testing
+    ¦   ¦   +---stubs
+    ¦   +---widgets
+    ¦       +---dist
+    ¦       ¦   +---components
+    ¦       ¦       +---stats-overview
+    ¦       ¦           +---stat
+    ¦       +---docs
+    ¦       +---resources
+    ¦       ¦   +---js
+    ¦       ¦   ¦   +---components
+    ¦       ¦   ¦       +---stats-overview
+    ¦       ¦   ¦           +---stat
+    ¦       ¦   +---views
+    ¦       ¦       +---components
+    ¦       ¦       +---stats-overview-widget
+    ¦       +---src
+    ¦       ¦   +---Commands
+    ¦       ¦   ¦   +---Aliases
+    ¦       ¦   +---Concerns
+    ¦       ¦   +---StatsOverviewWidget
+    ¦       +---stubs
+    +---filp
+    ¦   +---whoops
+    ¦       +---src
+    ¦           +---Whoops
+    ¦               +---Exception
+    ¦               +---Handler
+    ¦               +---Inspector
+    ¦               +---Resources
+    ¦               ¦   +---css
+    ¦               ¦   +---js
+    ¦               ¦   +---views
+    ¦               +---Util
+    +---fruitcake
+    ¦   +---php-cors
+    ¦       +---src
+    ¦           +---Exceptions
+    +---graham-campbell
+    ¦   +---result-type
+    ¦       +---src
+    +---guzzlehttp
+    ¦   +---guzzle
+    ¦   ¦   +---src
+    ¦   ¦       +---Cookie
+    ¦   ¦       +---Exception
+    ¦   ¦       +---Handler
+    ¦   +---promises
+    ¦   ¦   +---src
+    ¦   +---psr7
+    ¦   ¦   +---src
+    ¦   ¦       +---Exception
+    ¦   +---uri-template
+    ¦       +---src
+    +---hamcrest
+    ¦   +---hamcrest-php
+    ¦       +---.github
+    ¦       ¦   +---workflows
+    ¦       +---generator
+    ¦       ¦   +---parts
+    ¦       +---hamcrest
+    ¦       ¦   +---Hamcrest
+    ¦       ¦       +---Arrays
+    ¦       ¦       +---Collection
+    ¦       ¦       +---Core
+    ¦       ¦       +---Internal
+    ¦       ¦       +---Number
+    ¦       ¦       +---Text
+    ¦       ¦       +---Type
+    ¦       ¦       +---Xml
+    ¦       +---tests
+    ¦           +---Hamcrest
+    ¦               +---Array
+    ¦               +---Collection
+    ¦               +---Core
+    ¦               +---Number
+    ¦               +---Text
+    ¦               +---Type
+    ¦               +---Xml
+    +---jean85
+    ¦   +---pretty-package-versions
+    ¦       +---src
+    ¦           +---Exception
+    +---kirschbaum-development
+    ¦   +---eloquent-power-joins
+    ¦       +---.github
+    ¦       ¦   +---workflows
+    ¦       +---config
+    ¦       +---screenshots
+    ¦       +---src
+    ¦           +---Mixins
+    +---laravel
+    ¦   +---breeze
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---Console
+    ¦   ¦   +---stubs
+    ¦   ¦       +---api
+    ¦   ¦       ¦   +---app
+    ¦   ¦       ¦   ¦   +---Http
+    ¦   ¦       ¦   ¦   ¦   +---Controllers
+    ¦   ¦       ¦   ¦   ¦   ¦   +---Auth
+    ¦   ¦       ¦   ¦   ¦   +---Middleware
+    ¦   ¦       ¦   ¦   ¦   +---Requests
+    ¦   ¦       ¦   ¦   ¦       +---Auth
+    ¦   ¦       ¦   ¦   +---Providers
+    ¦   ¦       ¦   +---config
+    ¦   ¦       ¦   +---pest-tests
+    ¦   ¦       ¦   ¦   +---Feature
+    ¦   ¦       ¦   ¦   ¦   +---Auth
+    ¦   ¦       ¦   ¦   +---Unit
+    ¦   ¦       ¦   +---routes
+    ¦   ¦       ¦   +---tests
+    ¦   ¦       ¦       +---Feature
+    ¦   ¦       ¦           +---Auth
+    ¦   ¦       +---default
+    ¦   ¦       ¦   +---app
+    ¦   ¦       ¦   ¦   +---Http
+    ¦   ¦       ¦   ¦   ¦   +---Controllers
+    ¦   ¦       ¦   ¦   ¦   ¦   +---Auth
+    ¦   ¦       ¦   ¦   ¦   +---Requests
+    ¦   ¦       ¦   ¦   ¦       +---Auth
+    ¦   ¦       ¦   ¦   +---View
+    ¦   ¦       ¦   ¦       +---Components
+    ¦   ¦       ¦   +---pest-tests
+    ¦   ¦       ¦   ¦   +---Feature
+    ¦   ¦       ¦   ¦   ¦   +---Auth
+    ¦   ¦       ¦   ¦   +---Unit
+    ¦   ¦       ¦   +---resources
+    ¦   ¦       ¦   ¦   +---css
+    ¦   ¦       ¦   ¦   +---js
+    ¦   ¦       ¦   ¦   +---views
+    ¦   ¦       ¦   ¦       +---auth
+    ¦   ¦       ¦   ¦       +---components
+    ¦   ¦       ¦   ¦       +---layouts
+    ¦   ¦       ¦   ¦       +---profile
+    ¦   ¦       ¦   ¦           +---partials
+    ¦   ¦       ¦   +---routes
+    ¦   ¦       ¦   +---tests
+    ¦   ¦       ¦       +---Feature
+    ¦   ¦       ¦           +---Auth
+    ¦   ¦       +---inertia-common
+    ¦   ¦       ¦   +---app
+    ¦   ¦       ¦   ¦   +---Http
+    ¦   ¦       ¦   ¦       +---Controllers
+    ¦   ¦       ¦   ¦       ¦   +---Auth
+    ¦   ¦       ¦   ¦       +---Middleware
+    ¦   ¦       ¦   +---pest-tests
+    ¦   ¦       ¦   ¦   +---Feature
+    ¦   ¦       ¦   ¦       +---Auth
+    ¦   ¦       ¦   +---routes
+    ¦   ¦       ¦   +---tests
+    ¦   ¦       ¦       +---Feature
+    ¦   ¦       ¦           +---Auth
+    ¦   ¦       +---inertia-react
+    ¦   ¦       ¦   +---resources
+    ¦   ¦       ¦       +---js
+    ¦   ¦       ¦       ¦   +---Components
+    ¦   ¦       ¦       ¦   +---Layouts
+    ¦   ¦       ¦       ¦   +---Pages
+    ¦   ¦       ¦       ¦       +---Auth
+    ¦   ¦       ¦       ¦       +---Profile
+    ¦   ¦       ¦       ¦           +---Partials
+    ¦   ¦       ¦       +---views
+    ¦   ¦       +---inertia-react-ts
+    ¦   ¦       ¦   +---resources
+    ¦   ¦       ¦       +---js
+    ¦   ¦       ¦           +---Components
+    ¦   ¦       ¦           +---Layouts
+    ¦   ¦       ¦           +---Pages
+    ¦   ¦       ¦           ¦   +---Auth
+    ¦   ¦       ¦           ¦   +---Profile
+    ¦   ¦       ¦           ¦       +---Partials
+    ¦   ¦       ¦           +---types
+    ¦   ¦       +---inertia-vue
+    ¦   ¦       ¦   +---resources
+    ¦   ¦       ¦       +---js
+    ¦   ¦       ¦       ¦   +---Components
+    ¦   ¦       ¦       ¦   +---Layouts
+    ¦   ¦       ¦       ¦   +---Pages
+    ¦   ¦       ¦       ¦       +---Auth
+    ¦   ¦       ¦       ¦       +---Profile
+    ¦   ¦       ¦       ¦           +---Partials
+    ¦   ¦       ¦       +---views
+    ¦   ¦       +---inertia-vue-ts
+    ¦   ¦       ¦   +---resources
+    ¦   ¦       ¦       +---js
+    ¦   ¦       ¦           +---Components
+    ¦   ¦       ¦           +---Layouts
+    ¦   ¦       ¦           +---Pages
+    ¦   ¦       ¦           ¦   +---Auth
+    ¦   ¦       ¦           ¦   +---Profile
+    ¦   ¦       ¦           ¦       +---Partials
+    ¦   ¦       ¦           +---types
+    ¦   ¦       +---livewire
+    ¦   ¦       ¦   +---resources
+    ¦   ¦       ¦       +---views
+    ¦   ¦       ¦           +---livewire
+    ¦   ¦       ¦               +---layout
+    ¦   ¦       ¦               +---pages
+    ¦   ¦       ¦               ¦   +---auth
+    ¦   ¦       ¦               +---profile
+    ¦   ¦       ¦               +---welcome
+    ¦   ¦       +---livewire-common
+    ¦   ¦       ¦   +---app
+    ¦   ¦       ¦   ¦   +---Livewire
+    ¦   ¦       ¦   ¦       +---Actions
+    ¦   ¦       ¦   ¦       +---Forms
+    ¦   ¦       ¦   +---pest-tests
+    ¦   ¦       ¦   ¦   +---Feature
+    ¦   ¦       ¦   ¦   ¦   +---Auth
+    ¦   ¦       ¦   ¦   +---Unit
+    ¦   ¦       ¦   +---resources
+    ¦   ¦       ¦   ¦   +---views
+    ¦   ¦       ¦   ¦       +---components
+    ¦   ¦       ¦   ¦       +---layouts
+    ¦   ¦       ¦   +---routes
+    ¦   ¦       ¦   +---tests
+    ¦   ¦       ¦       +---Feature
+    ¦   ¦       ¦           +---Auth
+    ¦   ¦       +---livewire-functional
+    ¦   ¦           +---resources
+    ¦   ¦               +---views
+    ¦   ¦                   +---livewire
+    ¦   ¦                       +---layout
+    ¦   ¦                       +---pages
+    ¦   ¦                       ¦   +---auth
+    ¦   ¦                       +---profile
+    ¦   ¦                       +---welcome
+    ¦   +---framework
+    ¦   ¦   +---src
+    ¦   ¦       +---Illuminate
+    ¦   ¦           +---Auth
+    ¦   ¦           ¦   +---Access
+    ¦   ¦           ¦   ¦   +---Events
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   ¦   +---stubs
+    ¦   ¦           ¦   ¦       +---make
+    ¦   ¦           ¦   ¦           +---views
+    ¦   ¦           ¦   ¦               +---layouts
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Listeners
+    ¦   ¦           ¦   +---Middleware
+    ¦   ¦           ¦   +---Notifications
+    ¦   ¦           ¦   +---Passwords
+    ¦   ¦           +---Broadcasting
+    ¦   ¦           ¦   +---Broadcasters
+    ¦   ¦           +---Bus
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           +---Cache
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   ¦   +---stubs
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---RateLimiting
+    ¦   ¦           +---Collections
+    ¦   ¦           ¦   +---Traits
+    ¦   ¦           +---Conditionable
+    ¦   ¦           ¦   +---Traits
+    ¦   ¦           +---Config
+    ¦   ¦           +---Console
+    ¦   ¦           ¦   +---Concerns
+    ¦   ¦           ¦   +---Contracts
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---resources
+    ¦   ¦           ¦   ¦   +---views
+    ¦   ¦           ¦   ¦       +---components
+    ¦   ¦           ¦   +---Scheduling
+    ¦   ¦           ¦   +---View
+    ¦   ¦           ¦       +---Components
+    ¦   ¦           ¦           +---Mutators
+    ¦   ¦           +---Container
+    ¦   ¦           +---Contracts
+    ¦   ¦           ¦   +---Auth
+    ¦   ¦           ¦   ¦   +---Access
+    ¦   ¦           ¦   ¦   +---Middleware
+    ¦   ¦           ¦   +---Broadcasting
+    ¦   ¦           ¦   +---Bus
+    ¦   ¦           ¦   +---Cache
+    ¦   ¦           ¦   +---Config
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   +---Container
+    ¦   ¦           ¦   +---Cookie
+    ¦   ¦           ¦   +---Database
+    ¦   ¦           ¦   ¦   +---Eloquent
+    ¦   ¦           ¦   ¦   +---Events
+    ¦   ¦           ¦   ¦   +---Query
+    ¦   ¦           ¦   +---Debug
+    ¦   ¦           ¦   +---Encryption
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Filesystem
+    ¦   ¦           ¦   +---Foundation
+    ¦   ¦           ¦   +---Hashing
+    ¦   ¦           ¦   +---Http
+    ¦   ¦           ¦   +---Mail
+    ¦   ¦           ¦   +---Notifications
+    ¦   ¦           ¦   +---Pagination
+    ¦   ¦           ¦   +---Pipeline
+    ¦   ¦           ¦   +---Process
+    ¦   ¦           ¦   +---Queue
+    ¦   ¦           ¦   +---Redis
+    ¦   ¦           ¦   +---Routing
+    ¦   ¦           ¦   +---Session
+    ¦   ¦           ¦   ¦   +---Middleware
+    ¦   ¦           ¦   +---Support
+    ¦   ¦           ¦   +---Translation
+    ¦   ¦           ¦   +---Validation
+    ¦   ¦           ¦   +---View
+    ¦   ¦           +---Cookie
+    ¦   ¦           ¦   +---Middleware
+    ¦   ¦           +---Database
+    ¦   ¦           ¦   +---Capsule
+    ¦   ¦           ¦   +---Concerns
+    ¦   ¦           ¦   +---Connectors
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   ¦   +---Factories
+    ¦   ¦           ¦   ¦   ¦   +---stubs
+    ¦   ¦           ¦   ¦   +---Migrations
+    ¦   ¦           ¦   ¦   +---Seeds
+    ¦   ¦           ¦   ¦       +---stubs
+    ¦   ¦           ¦   +---DBAL
+    ¦   ¦           ¦   +---Eloquent
+    ¦   ¦           ¦   ¦   +---Attributes
+    ¦   ¦           ¦   ¦   +---Casts
+    ¦   ¦           ¦   ¦   +---Concerns
+    ¦   ¦           ¦   ¦   +---Factories
+    ¦   ¦           ¦   ¦   +---Relations
+    ¦   ¦           ¦   ¦       +---Concerns
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Migrations
+    ¦   ¦           ¦   ¦   +---stubs
+    ¦   ¦           ¦   +---PDO
+    ¦   ¦           ¦   ¦   +---Concerns
+    ¦   ¦           ¦   +---Query
+    ¦   ¦           ¦   ¦   +---Grammars
+    ¦   ¦           ¦   ¦   +---Processors
+    ¦   ¦           ¦   +---Schema
+    ¦   ¦           ¦       +---Grammars
+    ¦   ¦           +---Encryption
+    ¦   ¦           +---Events
+    ¦   ¦           +---Filesystem
+    ¦   ¦           +---Foundation
+    ¦   ¦           ¦   +---Auth
+    ¦   ¦           ¦   ¦   +---Access
+    ¦   ¦           ¦   +---Bootstrap
+    ¦   ¦           ¦   +---Bus
+    ¦   ¦           ¦   +---Concerns
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   ¦   +---stubs
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Exceptions
+    ¦   ¦           ¦   ¦   +---views
+    ¦   ¦           ¦   ¦   +---Whoops
+    ¦   ¦           ¦   +---Http
+    ¦   ¦           ¦   ¦   +---Events
+    ¦   ¦           ¦   ¦   +---Middleware
+    ¦   ¦           ¦   +---Providers
+    ¦   ¦           ¦   +---resources
+    ¦   ¦           ¦   +---Routing
+    ¦   ¦           ¦   +---stubs
+    ¦   ¦           ¦   +---Support
+    ¦   ¦           ¦   ¦   +---Providers
+    ¦   ¦           ¦   +---Testing
+    ¦   ¦           ¦   ¦   +---Concerns
+    ¦   ¦           ¦   ¦   +---Traits
+    ¦   ¦           ¦   +---Validation
+    ¦   ¦           +---Hashing
+    ¦   ¦           +---Http
+    ¦   ¦           ¦   +---Client
+    ¦   ¦           ¦   ¦   +---Concerns
+    ¦   ¦           ¦   ¦   +---Events
+    ¦   ¦           ¦   +---Concerns
+    ¦   ¦           ¦   +---Exceptions
+    ¦   ¦           ¦   +---Middleware
+    ¦   ¦           ¦   +---Resources
+    ¦   ¦           ¦   ¦   +---Json
+    ¦   ¦           ¦   +---Testing
+    ¦   ¦           +---Log
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           +---Macroable
+    ¦   ¦           ¦   +---Traits
+    ¦   ¦           +---Mail
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Mailables
+    ¦   ¦           ¦   +---resources
+    ¦   ¦           ¦   ¦   +---views
+    ¦   ¦           ¦   ¦       +---html
+    ¦   ¦           ¦   ¦       ¦   +---themes
+    ¦   ¦           ¦   ¦       +---text
+    ¦   ¦           ¦   +---Transport
+    ¦   ¦           +---Notifications
+    ¦   ¦           ¦   +---Channels
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   ¦   +---stubs
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Messages
+    ¦   ¦           ¦   +---resources
+    ¦   ¦           ¦       +---views
+    ¦   ¦           +---Pagination
+    ¦   ¦           ¦   +---resources
+    ¦   ¦           ¦       +---views
+    ¦   ¦           +---Pipeline
+    ¦   ¦           +---Process
+    ¦   ¦           ¦   +---Exceptions
+    ¦   ¦           +---Queue
+    ¦   ¦           ¦   +---Attributes
+    ¦   ¦           ¦   +---Capsule
+    ¦   ¦           ¦   +---Connectors
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   ¦   +---stubs
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Failed
+    ¦   ¦           ¦   +---Jobs
+    ¦   ¦           ¦   +---Middleware
+    ¦   ¦           +---Redis
+    ¦   ¦           ¦   +---Connections
+    ¦   ¦           ¦   +---Connectors
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Limiters
+    ¦   ¦           +---Routing
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   ¦   +---stubs
+    ¦   ¦           ¦   +---Contracts
+    ¦   ¦           ¦   +---Controllers
+    ¦   ¦           ¦   +---Events
+    ¦   ¦           ¦   +---Exceptions
+    ¦   ¦           ¦   +---Matching
+    ¦   ¦           ¦   +---Middleware
+    ¦   ¦           +---Session
+    ¦   ¦           ¦   +---Console
+    ¦   ¦           ¦   ¦   +---stubs
+    ¦   ¦           ¦   +---Middleware
+    ¦   ¦           +---Support
+    ¦   ¦           ¦   +---Exceptions
+    ¦   ¦           ¦   +---Facades
+    ¦   ¦           ¦   +---Testing
+    ¦   ¦           ¦   ¦   +---Fakes
+    ¦   ¦           ¦   +---Traits
+    ¦   ¦           +---Testing
+    ¦   ¦           ¦   +---Concerns
+    ¦   ¦           ¦   +---Constraints
+    ¦   ¦           ¦   +---Exceptions
+    ¦   ¦           ¦   +---Fluent
+    ¦   ¦           ¦       +---Concerns
+    ¦   ¦           +---Translation
+    ¦   ¦           ¦   +---lang
+    ¦   ¦           ¦       +---en
+    ¦   ¦           +---Validation
+    ¦   ¦           ¦   +---Concerns
+    ¦   ¦           ¦   +---Rules
+    ¦   ¦           +---View
+    ¦   ¦               +---Compilers
+    ¦   ¦               ¦   +---Concerns
+    ¦   ¦               +---Concerns
+    ¦   ¦               +---Engines
+    ¦   ¦               +---Middleware
+    ¦   +---pint
+    ¦   ¦   +---builds
+    ¦   +---prompts
+    ¦   ¦   +---src
+    ¦   ¦       +---Concerns
+    ¦   ¦       +---Exceptions
+    ¦   ¦       +---Output
+    ¦   ¦       +---Themes
+    ¦   ¦           +---Contracts
+    ¦   ¦           +---Default
+    ¦   ¦               +---Concerns
+    ¦   +---sail
+    ¦   ¦   +---bin
+    ¦   ¦   +---database
+    ¦   ¦   ¦   +---mariadb
+    ¦   ¦   ¦   +---mysql
+    ¦   ¦   ¦   +---pgsql
+    ¦   ¦   +---runtimes
+    ¦   ¦   ¦   +---8.0
+    ¦   ¦   ¦   +---8.1
+    ¦   ¦   ¦   +---8.2
+    ¦   ¦   ¦   +---8.3
+    ¦   ¦   ¦   +---8.4
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---Console
+    ¦   ¦   ¦       +---Concerns
+    ¦   ¦   +---stubs
+    ¦   +---sanctum
+    ¦   ¦   +---config
+    ¦   ¦   +---database
+    ¦   ¦   ¦   +---migrations
+    ¦   ¦   +---src
+    ¦   ¦       +---Console
+    ¦   ¦       ¦   +---Commands
+    ¦   ¦       +---Contracts
+    ¦   ¦       +---Events
+    ¦   ¦       +---Exceptions
+    ¦   ¦       +---Http
+    ¦   ¦           +---Controllers
+    ¦   ¦           +---Middleware
+    ¦   +---serializable-closure
+    ¦   ¦   +---src
+    ¦   ¦       +---Contracts
+    ¦   ¦       +---Exceptions
+    ¦   ¦       +---Serializers
+    ¦   ¦       +---Signers
+    ¦   ¦       +---Support
+    ¦   +---tinker
+    ¦   ¦   +---config
+    ¦   ¦   +---src
+    ¦   ¦       +---Console
+    ¦   +---ui
+    ¦       +---auth-backend
+    ¦       +---src
+    ¦       ¦   +---Auth
+    ¦       ¦   ¦   +---bootstrap-stubs
+    ¦       ¦   ¦   ¦   +---auth
+    ¦       ¦   ¦   ¦   ¦   +---passwords
+    ¦       ¦   ¦   ¦   +---layouts
+    ¦       ¦   ¦   +---stubs
+    ¦       ¦   ¦       +---controllers
+    ¦       ¦   +---Presets
+    ¦       ¦       +---bootstrap-stubs
+    ¦       ¦       +---react-stubs
+    ¦       ¦       +---vue-stubs
+    ¦       +---stubs
+    ¦       ¦   +---Auth
+    ¦       ¦   +---migrations
+    ¦       +---tests
+    ¦           +---AuthBackend
+    +---league
+    ¦   +---commonmark
+    ¦   ¦   +---src
+    ¦   ¦       +---Delimiter
+    ¦   ¦       ¦   +---Processor
+    ¦   ¦       +---Environment
+    ¦   ¦       +---Event
+    ¦   ¦       +---Exception
+    ¦   ¦       +---Extension
+    ¦   ¦       ¦   +---Attributes
+    ¦   ¦       ¦   ¦   +---Event
+    ¦   ¦       ¦   ¦   +---Node
+    ¦   ¦       ¦   ¦   +---Parser
+    ¦   ¦       ¦   ¦   +---Util
+    ¦   ¦       ¦   +---Autolink
+    ¦   ¦       ¦   +---CommonMark
+    ¦   ¦       ¦   ¦   +---Delimiter
+    ¦   ¦       ¦   ¦   ¦   +---Processor
+    ¦   ¦       ¦   ¦   +---Node
+    ¦   ¦       ¦   ¦   ¦   +---Block
+    ¦   ¦       ¦   ¦   ¦   +---Inline
+    ¦   ¦       ¦   ¦   +---Parser
+    ¦   ¦       ¦   ¦   ¦   +---Block
+    ¦   ¦       ¦   ¦   ¦   +---Inline
+    ¦   ¦       ¦   ¦   +---Renderer
+    ¦   ¦       ¦   ¦       +---Block
+    ¦   ¦       ¦   ¦       +---Inline
+    ¦   ¦       ¦   +---DefaultAttributes
+    ¦   ¦       ¦   +---DescriptionList
+    ¦   ¦       ¦   ¦   +---Event
+    ¦   ¦       ¦   ¦   +---Node
+    ¦   ¦       ¦   ¦   +---Parser
+    ¦   ¦       ¦   ¦   +---Renderer
+    ¦   ¦       ¦   +---DisallowedRawHtml
+    ¦   ¦       ¦   +---Embed
+    ¦   ¦       ¦   ¦   +---Bridge
+    ¦   ¦       ¦   +---ExternalLink
+    ¦   ¦       ¦   +---Footnote
+    ¦   ¦       ¦   ¦   +---Event
+    ¦   ¦       ¦   ¦   +---Node
+    ¦   ¦       ¦   ¦   +---Parser
+    ¦   ¦       ¦   ¦   +---Renderer
+    ¦   ¦       ¦   +---FrontMatter
+    ¦   ¦       ¦   ¦   +---Data
+    ¦   ¦       ¦   ¦   +---Exception
+    ¦   ¦       ¦   ¦   +---Input
+    ¦   ¦       ¦   ¦   +---Listener
+    ¦   ¦       ¦   ¦   +---Output
+    ¦   ¦       ¦   +---HeadingPermalink
+    ¦   ¦       ¦   +---InlinesOnly
+    ¦   ¦       ¦   +---Mention
+    ¦   ¦       ¦   ¦   +---Generator
+    ¦   ¦       ¦   +---SmartPunct
+    ¦   ¦       ¦   +---Strikethrough
+    ¦   ¦       ¦   +---Table
+    ¦   ¦       ¦   +---TableOfContents
+    ¦   ¦       ¦   ¦   +---Node
+    ¦   ¦       ¦   ¦   +---Normalizer
+    ¦   ¦       ¦   +---TaskList
+    ¦   ¦       +---Input
+    ¦   ¦       +---Node
+    ¦   ¦       ¦   +---Block
+    ¦   ¦       ¦   +---Inline
+    ¦   ¦       ¦   +---Query
+    ¦   ¦       +---Normalizer
+    ¦   ¦       +---Output
+    ¦   ¦       +---Parser
+    ¦   ¦       ¦   +---Block
+    ¦   ¦       ¦   +---Inline
+    ¦   ¦       +---Reference
+    ¦   ¦       +---Renderer
+    ¦   ¦       ¦   +---Block
+    ¦   ¦       ¦   +---Inline
+    ¦   ¦       +---Util
+    ¦   ¦       +---Xml
+    ¦   +---config
+    ¦   ¦   +---src
+    ¦   ¦       +---Exception
+    ¦   +---flysystem
+    ¦   ¦   +---src
+    ¦   ¦       +---UnixVisibility
+    ¦   ¦       +---UrlGeneration
+    ¦   +---flysystem-local
+    ¦   +---mime-type-detection
+    ¦   ¦   +---src
+    ¦   +---uri
+    ¦   ¦   +---UriTemplate
+    ¦   +---uri-interfaces
+    ¦       +---Contracts
+    ¦       +---Exceptions
+    ¦       +---Idna
+    ¦       +---IPv4
+    ¦       +---IPv6
+    ¦       +---KeyValuePair
+    +---livewire
+    ¦   +---livewire
+    ¦       +---config
+    ¦       +---dist
+    ¦       +---src
+    ¦           +---Attributes
+    ¦           +---Concerns
+    ¦           +---Drawer
+    ¦           +---Exceptions
+    ¦           +---Features
+    ¦           ¦   +---SupportAccessingParent
+    ¦           ¦   +---SupportAttributes
+    ¦           ¦   +---SupportAutoInjectedAssets
+    ¦           ¦   +---SupportBladeAttributes
+    ¦           ¦   +---SupportChecksumErrorDebugging
+    ¦           ¦   +---SupportComputed
+    ¦           ¦   +---SupportConsoleCommands
+    ¦           ¦   ¦   +---Commands
+    ¦           ¦   ¦       +---Upgrade
+    ¦           ¦   +---SupportDataBinding
+    ¦           ¦   +---SupportDisablingBackButtonCache
+    ¦           ¦   +---SupportEntangle
+    ¦           ¦   +---SupportErrorResponses
+    ¦           ¦   +---SupportEvents
+    ¦           ¦   +---SupportFileDownloads
+    ¦           ¦   +---SupportFileUploads
+    ¦           ¦   +---SupportFormObjects
+    ¦           ¦   +---SupportIsolating
+    ¦           ¦   +---SupportJsEvaluation
+    ¦           ¦   +---SupportLazyLoading
+    ¦           ¦   +---SupportLegacyModels
+    ¦           ¦   +---SupportLifecycleHooks
+    ¦           ¦   +---SupportLocales
+    ¦           ¦   +---SupportLockedProperties
+    ¦           ¦   +---SupportModels
+    ¦           ¦   +---SupportMorphAwareIfStatement
+    ¦           ¦   +---SupportMultipleRootElementDetection
+    ¦           ¦   +---SupportNavigate
+    ¦           ¦   ¦   +---test-views
+    ¦           ¦   +---SupportNestedComponentListeners
+    ¦           ¦   +---SupportNestingComponents
+    ¦           ¦   +---SupportPageComponents
+    ¦           ¦   +---SupportPagination
+    ¦           ¦   ¦   +---views
+    ¦           ¦   +---SupportPolling
+    ¦           ¦   +---SupportQueryString
+    ¦           ¦   +---SupportReactiveProps
+    ¦           ¦   +---SupportRedirects
+    ¦           ¦   +---SupportScriptsAndAssets
+    ¦           ¦   +---SupportSession
+    ¦           ¦   +---SupportStdClasses
+    ¦           ¦   +---SupportStreaming
+    ¦           ¦   +---SupportTeleporting
+    ¦           ¦   +---SupportTesting
+    ¦           ¦   +---SupportTransitions
+    ¦           ¦   +---SupportValidation
+    ¦           ¦   +---SupportWireables
+    ¦           ¦   +---SupportWireConfirm
+    ¦           ¦   +---SupportWireCurrent
+    ¦           ¦   ¦   +---test-views
+    ¦           ¦   +---SupportWireLoading
+    ¦           ¦   +---SupportWireModelingNestedComponents
+    ¦           +---Mechanisms
+    ¦               +---CompileLivewireTags
+    ¦               +---ExtendBlade
+    ¦               +---FrontendAssets
+    ¦               +---HandleComponents
+    ¦               ¦   +---Synthesizers
+    ¦               +---HandleRequests
+    ¦               +---PersistentMiddleware
+    +---masterminds
+    ¦   +---html5
+    ¦       +---bin
+    ¦       +---src
+    ¦           +---HTML5
+    ¦               +---Parser
+    ¦               +---Serializer
+    +---mockery
+    ¦   +---mockery
+    ¦       +---docs
+    ¦       ¦   +---cookbook
+    ¦       ¦   +---getting_started
+    ¦       ¦   +---mockery
+    ¦       ¦   +---reference
+    ¦       ¦   +---_static
+    ¦       +---library
+    ¦           +---Mockery
+    ¦               +---Adapter
+    ¦               ¦   +---Phpunit
+    ¦               +---CountValidator
+    ¦               +---Exception
+    ¦               +---Generator
+    ¦               ¦   +---StringManipulation
+    ¦               ¦       +---Pass
+    ¦               +---Loader
+    ¦               +---Matcher
+    +---monolog
+    ¦   +---monolog
+    ¦       +---src
+    ¦           +---Monolog
+    ¦               +---Attribute
+    ¦               +---Formatter
+    ¦               +---Handler
+    ¦               ¦   +---Curl
+    ¦               ¦   +---FingersCrossed
+    ¦               ¦   +---Slack
+    ¦               ¦   +---SyslogUdp
+    ¦               +---Processor
+    ¦               +---Test
+    +---myclabs
+    ¦   +---deep-copy
+    ¦       +---src
+    ¦           +---DeepCopy
+    ¦               +---Exception
+    ¦               +---Filter
+    ¦               ¦   +---Doctrine
+    ¦               +---Matcher
+    ¦               ¦   +---Doctrine
+    ¦               +---Reflection
+    ¦               +---TypeFilter
+    ¦               ¦   +---Date
+    ¦               ¦   +---Spl
+    ¦               +---TypeMatcher
+    +---nesbot
+    ¦   +---carbon
+    ¦       +---bin
+    ¦       +---lazy
+    ¦       ¦   +---Carbon
+    ¦       ¦       +---MessageFormatter
+    ¦       ¦       +---PHPStan
+    ¦       +---src
+    ¦           +---Carbon
+    ¦               +---Cli
+    ¦               +---Exceptions
+    ¦               +---Lang
+    ¦               +---Laravel
+    ¦               +---List
+    ¦               +---MessageFormatter
+    ¦               +---PHPStan
+    ¦               +---Traits
+    +---nette
+    ¦   +---schema
+    ¦   ¦   +---src
+    ¦   ¦       +---Schema
+    ¦   ¦           +---Elements
+    ¦   +---utils
+    ¦       +---src
+    ¦           +---Iterators
+    ¦           +---Utils
+    +---nikic
+    ¦   +---php-parser
+    ¦       +---bin
+    ¦       +---lib
+    ¦           +---PhpParser
+    ¦               +---Builder
+    ¦               +---Comment
+    ¦               +---ErrorHandler
+    ¦               +---Internal
+    ¦               +---Lexer
+    ¦               ¦   +---TokenEmulator
+    ¦               +---Node
+    ¦               ¦   +---Expr
+    ¦               ¦   ¦   +---AssignOp
+    ¦               ¦   ¦   +---BinaryOp
+    ¦               ¦   ¦   +---Cast
+    ¦               ¦   +---Name
+    ¦               ¦   +---Scalar
+    ¦               ¦   ¦   +---MagicConst
+    ¦               ¦   +---Stmt
+    ¦               ¦       +---TraitUseAdaptation
+    ¦               +---NodeVisitor
+    ¦               +---Parser
+    ¦               +---PrettyPrinter
+    +---nunomaduro
+    ¦   +---collision
+    ¦   ¦   +---.temp
+    ¦   ¦   +---src
+    ¦   ¦       +---Adapters
+    ¦   ¦       ¦   +---Laravel
+    ¦   ¦       ¦   ¦   +---Commands
+    ¦   ¦       ¦   ¦   +---Exceptions
+    ¦   ¦       ¦   +---Phpunit
+    ¦   ¦       ¦       +---Printers
+    ¦   ¦       ¦       +---Subscribers
+    ¦   ¦       ¦       +---Support
+    ¦   ¦       +---Contracts
+    ¦   ¦       ¦   +---Adapters
+    ¦   ¦       ¦       +---Phpunit
+    ¦   ¦       +---Exceptions
+    ¦   ¦       +---SolutionsRepositories
+    ¦   +---termwind
+    ¦       +---src
+    ¦           +---Actions
+    ¦           +---Components
+    ¦           +---Enums
+    ¦           +---Exceptions
+    ¦           +---Helpers
+    ¦           +---Html
+    ¦           +---Laravel
+    ¦           +---Repositories
+    ¦           +---ValueObjects
+    +---pestphp
+    ¦   +---pest
+    ¦   ¦   +---.temp
+    ¦   ¦   +---bin
+    ¦   ¦   +---overrides
+    ¦   ¦   ¦   +---Event
+    ¦   ¦   ¦   ¦   +---Value
+    ¦   ¦   ¦   +---Logging
+    ¦   ¦   ¦   ¦   +---JUnit
+    ¦   ¦   ¦   +---Runner
+    ¦   ¦   ¦   ¦   +---Filter
+    ¦   ¦   ¦   ¦   +---ResultCache
+    ¦   ¦   ¦   +---TextUI
+    ¦   ¦   ¦       +---Command
+    ¦   ¦   ¦       ¦   +---Commands
+    ¦   ¦   ¦       +---Output
+    ¦   ¦   ¦           +---Default
+    ¦   ¦   ¦               +---ProgressPrinter
+    ¦   ¦   ¦                   +---Subscriber
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---views
+    ¦   ¦   ¦       +---components
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---Bootstrappers
+    ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Logging
+    ¦   ¦   ¦   +---Console
+    ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   ¦   +---Plugins
+    ¦   ¦   ¦   +---Exceptions
+    ¦   ¦   ¦   +---Expectations
+    ¦   ¦   ¦   +---Factories
+    ¦   ¦   ¦   ¦   +---Annotations
+    ¦   ¦   ¦   ¦   +---Attributes
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Covers
+    ¦   ¦   ¦   +---Logging
+    ¦   ¦   ¦   ¦   +---TeamCity
+    ¦   ¦   ¦   ¦       +---Subscriber
+    ¦   ¦   ¦   +---Matchers
+    ¦   ¦   ¦   +---Mixins
+    ¦   ¦   ¦   +---PendingCalls
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   +---Plugins
+    ¦   ¦   ¦   ¦   +---Actions
+    ¦   ¦   ¦   ¦   +---Concerns
+    ¦   ¦   ¦   ¦   +---Parallel
+    ¦   ¦   ¦   ¦       +---Contracts
+    ¦   ¦   ¦   ¦       +---Handlers
+    ¦   ¦   ¦   ¦       +---Paratest
+    ¦   ¦   ¦   ¦       +---Support
+    ¦   ¦   ¦   +---Repositories
+    ¦   ¦   ¦   +---Subscribers
+    ¦   ¦   ¦   +---Support
+    ¦   ¦   ¦   +---TestCaseFilters
+    ¦   ¦   ¦   +---TestCaseMethodFilters
+    ¦   ¦   ¦   +---TestCases
+    ¦   ¦   +---stubs
+    ¦   ¦       +---init
+    ¦   ¦       ¦   +---Feature
+    ¦   ¦       ¦   +---Unit
+    ¦   ¦       +---init-laravel
+    ¦   ¦           +---Feature
+    ¦   ¦           +---Unit
+    ¦   +---pest-plugin
+    ¦   ¦   +---.temp
+    ¦   ¦   +---src
+    ¦   ¦       +---Commands
+    ¦   +---pest-plugin-arch
+    ¦   ¦   +---src
+    ¦   ¦       +---Collections
+    ¦   ¦       +---Concerns
+    ¦   ¦       +---Contracts
+    ¦   ¦       +---Exceptions
+    ¦   ¦       +---Expectations
+    ¦   ¦       +---Factories
+    ¦   ¦       +---Objects
+    ¦   ¦       +---Options
+    ¦   ¦       +---Repositories
+    ¦   ¦       +---Support
+    ¦   ¦       +---ValueObjects
+    ¦   +---pest-plugin-laravel
+    ¦       +---resources
+    ¦       ¦   +---database
+    ¦       ¦   ¦   +---migrations
+    ¦       ¦   +---views
+    ¦       +---src
+    ¦       ¦   +---Commands
+    ¦       +---stubs
+    ¦           +---Laravel
+    +---phar-io
+    ¦   +---manifest
+    ¦   ¦   +---.github
+    ¦   ¦   ¦   +---workflows
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---exceptions
+    ¦   ¦   ¦   +---values
+    ¦   ¦   ¦   +---xml
+    ¦   ¦   +---tools
+    ¦   ¦       +---php-cs-fixer.d
+    ¦   +---version
+    ¦       +---src
+    ¦           +---constraints
+    ¦           +---exceptions
+    +---phpdocumentor
+    ¦   +---reflection-common
+    ¦   ¦   +---.github
+    ¦   ¦   ¦   +---workflows
+    ¦   ¦   +---src
+    ¦   +---reflection-docblock
+    ¦   ¦   +---src
+    ¦   ¦       +---DocBlock
+    ¦   ¦       ¦   +---Tags
+    ¦   ¦       ¦       +---Factory
+    ¦   ¦       ¦       +---Formatter
+    ¦   ¦       ¦       +---Reference
+    ¦   ¦       +---Exception
+    ¦   +---type-resolver
+    ¦       +---.phpdoc
+    ¦       ¦   +---template
+    ¦       +---docs
+    ¦       +---src
+    ¦           +---PseudoTypes
+    ¦           +---Types
+    +---phpoption
+    ¦   +---phpoption
+    ¦       +---src
+    ¦           +---PhpOption
+    +---phpstan
+    ¦   +---phpdoc-parser
+    ¦       +---src
+    ¦           +---Ast
+    ¦           ¦   +---ConstExpr
+    ¦           ¦   +---NodeVisitor
+    ¦           ¦   +---PhpDoc
+    ¦           ¦   ¦   +---Doctrine
+    ¦           ¦   +---Type
+    ¦           +---Lexer
+    ¦           +---Parser
+    ¦           +---Printer
+    +---phpunit
+    ¦   +---php-code-coverage
+    ¦   ¦   +---src
+    ¦   ¦       +---Data
+    ¦   ¦       +---Driver
+    ¦   ¦       +---Exception
+    ¦   ¦       +---Node
+    ¦   ¦       +---Report
+    ¦   ¦       ¦   +---Html
+    ¦   ¦       ¦   ¦   +---Renderer
+    ¦   ¦       ¦   ¦       +---Template
+    ¦   ¦       ¦   ¦           +---css
+    ¦   ¦       ¦   ¦           +---icons
+    ¦   ¦       ¦   ¦           +---js
+    ¦   ¦       ¦   +---Xml
+    ¦   ¦       +---StaticAnalysis
+    ¦   ¦       +---TestSize
+    ¦   ¦       +---TestStatus
+    ¦   ¦       +---Util
+    ¦   +---php-file-iterator
+    ¦   ¦   +---src
+    ¦   +---php-invoker
+    ¦   ¦   +---.psalm
+    ¦   ¦   +---src
+    ¦   ¦       +---exceptions
+    ¦   +---php-text-template
+    ¦   ¦   +---src
+    ¦   ¦       +---exceptions
+    ¦   +---php-timer
+    ¦   ¦   +---src
+    ¦   ¦       +---exceptions
+    ¦   +---phpunit
+    ¦       +---schema
+    ¦       +---src
+    ¦           +---Event
+    ¦           ¦   +---Dispatcher
+    ¦           ¦   +---Emitter
+    ¦           ¦   +---Events
+    ¦           ¦   ¦   +---Application
+    ¦           ¦   ¦   +---Test
+    ¦           ¦   ¦   ¦   +---Assertion
+    ¦           ¦   ¦   ¦   +---HookMethod
+    ¦           ¦   ¦   ¦   +---Issue
+    ¦           ¦   ¦   ¦   +---Lifecycle
+    ¦           ¦   ¦   ¦   +---Outcome
+    ¦           ¦   ¦   ¦   +---TestDouble
+    ¦           ¦   ¦   +---TestRunner
+    ¦           ¦   ¦   +---TestSuite
+    ¦           ¦   +---Exception
+    ¦           ¦   +---Value
+    ¦           ¦       +---Runtime
+    ¦           ¦       +---Telemetry
+    ¦           ¦       +---Test
+    ¦           ¦       ¦   +---TestData
+    ¦           ¦       +---TestSuite
+    ¦           +---Framework
+    ¦           ¦   +---Assert
+    ¦           ¦   +---Attributes
+    ¦           ¦   +---Constraint
+    ¦           ¦   ¦   +---Boolean
+    ¦           ¦   ¦   +---Cardinality
+    ¦           ¦   ¦   +---Equality
+    ¦           ¦   ¦   +---Exception
+    ¦           ¦   ¦   +---Filesystem
+    ¦           ¦   ¦   +---Math
+    ¦           ¦   ¦   +---Object
+    ¦           ¦   ¦   +---Operator
+    ¦           ¦   ¦   +---String
+    ¦           ¦   ¦   +---Traversable
+    ¦           ¦   ¦   +---Type
+    ¦           ¦   +---Exception
+    ¦           ¦   ¦   +---Incomplete
+    ¦           ¦   ¦   +---ObjectEquals
+    ¦           ¦   ¦   +---Skipped
+    ¦           ¦   +---MockObject
+    ¦           ¦   ¦   +---Exception
+    ¦           ¦   ¦   +---Generator
+    ¦           ¦   ¦   ¦   +---Exception
+    ¦           ¦   ¦   ¦   +---templates
+    ¦           ¦   ¦   +---Runtime
+    ¦           ¦   ¦       +---Api
+    ¦           ¦   ¦       +---Builder
+    ¦           ¦   ¦       +---Interface
+    ¦           ¦   ¦       +---Rule
+    ¦           ¦   ¦       +---Stub
+    ¦           ¦   +---TestSize
+    ¦           ¦   +---TestStatus
+    ¦           +---Logging
+    ¦           ¦   +---JUnit
+    ¦           ¦   ¦   +---Subscriber
+    ¦           ¦   +---TeamCity
+    ¦           ¦   ¦   +---Subscriber
+    ¦           ¦   +---TestDox
+    ¦           ¦       +---TestResult
+    ¦           ¦           +---Subscriber
+    ¦           +---Metadata
+    ¦           ¦   +---Api
+    ¦           ¦   +---Exception
+    ¦           ¦   +---Parser
+    ¦           ¦   ¦   +---Annotation
+    ¦           ¦   +---Version
+    ¦           +---Runner
+    ¦           ¦   +---Baseline
+    ¦           ¦   ¦   +---Exception
+    ¦           ¦   ¦   +---Subscriber
+    ¦           ¦   +---Exception
+    ¦           ¦   +---Extension
+    ¦           ¦   +---Filter
+    ¦           ¦   +---GarbageCollection
+    ¦           ¦   ¦   +---Subscriber
+    ¦           ¦   +---ResultCache
+    ¦           ¦   ¦   +---Subscriber
+    ¦           ¦   +---TestResult
+    ¦           ¦       +---Subscriber
+    ¦           +---TextUI
+    ¦           ¦   +---Command
+    ¦           ¦   ¦   +---Commands
+    ¦           ¦   +---Configuration
+    ¦           ¦   ¦   +---Cli
+    ¦           ¦   ¦   +---Exception
+    ¦           ¦   ¦   +---Value
+    ¦           ¦   ¦   +---Xml
+    ¦           ¦   ¦       +---CodeCoverage
+    ¦           ¦   ¦       ¦   +---Report
+    ¦           ¦   ¦       +---Logging
+    ¦           ¦   ¦       ¦   +---TestDox
+    ¦           ¦   ¦       +---Migration
+    ¦           ¦   ¦       ¦   +---Migrations
+    ¦           ¦   ¦       +---SchemaDetector
+    ¦           ¦   ¦       +---Validator
+    ¦           ¦   +---Exception
+    ¦           ¦   +---Output
+    ¦           ¦       +---Default
+    ¦           ¦       ¦   +---ProgressPrinter
+    ¦           ¦       ¦       +---Subscriber
+    ¦           ¦       +---Printer
+    ¦           ¦       +---TestDox
+    ¦           +---Util
+    ¦               +---Exception
+    ¦               +---PHP
+    ¦               ¦   +---Template
+    ¦               +---Xml
+    +---psr
+    ¦   +---cache
+    ¦   ¦   +---src
+    ¦   +---clock
+    ¦   ¦   +---src
+    ¦   +---container
+    ¦   ¦   +---src
+    ¦   +---event-dispatcher
+    ¦   ¦   +---src
+    ¦   +---http-client
+    ¦   ¦   +---src
+    ¦   +---http-factory
+    ¦   ¦   +---src
+    ¦   +---http-message
+    ¦   ¦   +---docs
+    ¦   ¦   +---src
+    ¦   +---log
+    ¦   ¦   +---src
+    ¦   +---simple-cache
+    ¦       +---src
+    +---psy
+    ¦   +---psysh
+    ¦       +---bin
+    ¦       +---src
+    ¦           +---CodeCleaner
+    ¦           +---Command
+    ¦           ¦   +---ListCommand
+    ¦           ¦   +---TimeitCommand
+    ¦           +---Exception
+    ¦           +---ExecutionLoop
+    ¦           +---Formatter
+    ¦           +---Input
+    ¦           +---Output
+    ¦           +---Readline
+    ¦           ¦   +---Hoa
+    ¦           ¦       +---Terminfo
+    ¦           ¦           +---77
+    ¦           ¦           +---78
+    ¦           +---Reflection
+    ¦           +---Sudo
+    ¦           +---TabCompletion
+    ¦           ¦   +---Matcher
+    ¦           +---Util
+    ¦           +---VarDumper
+    ¦           +---VersionUpdater
+    ¦               +---Downloader
+    +---ralouphie
+    ¦   +---getallheaders
+    ¦       +---src
+    +---ramsey
+    ¦   +---collection
+    ¦   ¦   +---src
+    ¦   ¦       +---Exception
+    ¦   ¦       +---Map
+    ¦   ¦       +---Tool
+    ¦   +---uuid
+    ¦       +---src
+    ¦           +---Builder
+    ¦           +---Codec
+    ¦           +---Converter
+    ¦           ¦   +---Number
+    ¦           ¦   +---Time
+    ¦           +---Exception
+    ¦           +---Fields
+    ¦           +---Generator
+    ¦           +---Guid
+    ¦           +---Lazy
+    ¦           +---Math
+    ¦           +---Nonstandard
+    ¦           +---Provider
+    ¦           ¦   +---Dce
+    ¦           ¦   +---Node
+    ¦           ¦   +---Time
+    ¦           +---Rfc4122
+    ¦           +---Type
+    ¦           +---Validator
+    +---ryangjchandler
+    ¦   +---blade-capture-directive
+    ¦       +---src
+    +---sebastian
+    ¦   +---cli-parser
+    ¦   ¦   +---src
+    ¦   ¦       +---exceptions
+    ¦   +---code-unit
+    ¦   ¦   +---src
+    ¦   ¦       +---exceptions
+    ¦   +---code-unit-reverse-lookup
+    ¦   ¦   +---.psalm
+    ¦   ¦   +---src
+    ¦   +---comparator
+    ¦   ¦   +---src
+    ¦   ¦       +---exceptions
+    ¦   +---complexity
+    ¦   ¦   +---src
+    ¦   ¦       +---Complexity
+    ¦   ¦       +---Exception
+    ¦   ¦       +---Visitor
+    ¦   +---diff
+    ¦   ¦   +---src
+    ¦   ¦       +---Exception
+    ¦   ¦       +---Output
+    ¦   +---environment
+    ¦   ¦   +---src
+    ¦   +---exporter
+    ¦   ¦   +---src
+    ¦   +---global-state
+    ¦   ¦   +---src
+    ¦   ¦       +---exceptions
+    ¦   +---lines-of-code
+    ¦   ¦   +---src
+    ¦   ¦       +---Exception
+    ¦   +---object-enumerator
+    ¦   ¦   +---src
+    ¦   +---object-reflector
+    ¦   ¦   +---src
+    ¦   +---recursion-context
+    ¦   ¦   +---src
+    ¦   +---type
+    ¦   ¦   +---src
+    ¦   ¦       +---exception
+    ¦   ¦       +---type
+    ¦   +---version
+    ¦       +---src
+    +---spatie
+    ¦   +---backtrace
+    ¦   ¦   +---src
+    ¦   ¦       +---Arguments
+    ¦   ¦       ¦   +---ReducedArgument
+    ¦   ¦       ¦   +---Reducers
+    ¦   ¦       +---CodeSnippets
+    ¦   +---color
+    ¦   ¦   +---src
+    ¦   ¦       +---Exceptions
+    ¦   +---error-solutions
+    ¦   ¦   +---legacy
+    ¦   ¦   ¦   +---ignition
+    ¦   ¦   ¦   ¦   +---Contracts
+    ¦   ¦   ¦   ¦   +---Solutions
+    ¦   ¦   ¦   ¦       +---OpenAi
+    ¦   ¦   ¦   ¦       +---SolutionProviders
+    ¦   ¦   ¦   +---laravel-ignition
+    ¦   ¦   ¦       +---Solutions
+    ¦   ¦   ¦       ¦   +---SolutionProviders
+    ¦   ¦   ¦       +---Support
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---views
+    ¦   ¦   +---src
+    ¦   ¦       +---Contracts
+    ¦   ¦       +---SolutionProviders
+    ¦   ¦       ¦   +---Laravel
+    ¦   ¦       +---Solutions
+    ¦   ¦       ¦   +---Concerns
+    ¦   ¦       ¦   +---Laravel
+    ¦   ¦       ¦   +---OpenAi
+    ¦   ¦       +---Support
+    ¦   ¦           +---Laravel
+    ¦   ¦               +---Composer
+    ¦   +---flare-client-php
+    ¦   ¦   +---src
+    ¦   ¦       +---Concerns
+    ¦   ¦       +---Context
+    ¦   ¦       +---Contracts
+    ¦   ¦       +---Enums
+    ¦   ¦       +---FlareMiddleware
+    ¦   ¦       +---Glows
+    ¦   ¦       +---Http
+    ¦   ¦       ¦   +---Exceptions
+    ¦   ¦       +---Solutions
+    ¦   ¦       +---Support
+    ¦   ¦       +---Time
+    ¦   ¦       +---Truncation
+    ¦   +---ignition
+    ¦   ¦   +---resources
+    ¦   ¦   ¦   +---compiled
+    ¦   ¦   ¦   +---views
+    ¦   ¦   +---src
+    ¦   ¦       +---Config
+    ¦   ¦       +---Contracts
+    ¦   ¦       +---ErrorPage
+    ¦   +---invade
+    ¦   ¦   +---src
+    ¦   ¦       +---PHPStan
+    ¦   +---laravel-ignition
+    ¦   ¦   +---config
+    ¦   ¦   +---src
+    ¦   ¦       +---ArgumentReducers
+    ¦   ¦       +---Commands
+    ¦   ¦       ¦   +---stubs
+    ¦   ¦       +---ContextProviders
+    ¦   ¦       +---Exceptions
+    ¦   ¦       +---Facades
+    ¦   ¦       +---FlareMiddleware
+    ¦   ¦       +---Http
+    ¦   ¦       ¦   +---Controllers
+    ¦   ¦       ¦   +---Middleware
+    ¦   ¦       ¦   +---Requests
+    ¦   ¦       +---Recorders
+    ¦   ¦       ¦   +---DumpRecorder
+    ¦   ¦       ¦   +---JobRecorder
+    ¦   ¦       ¦   +---LogRecorder
+    ¦   ¦       ¦   +---QueryRecorder
+    ¦   ¦       +---Renderers
+    ¦   ¦       +---Solutions
+    ¦   ¦       ¦   +---SolutionTransformers
+    ¦   ¦       +---Support
+    ¦   ¦       +---Views
+    ¦   +---laravel-package-tools
+    ¦       +---src
+    ¦           +---Commands
+    ¦           +---Exceptions
+    +---symfony
+    ¦   +---console
+    ¦   ¦   +---Attribute
+    ¦   ¦   +---CI
+    ¦   ¦   +---Command
+    ¦   ¦   +---CommandLoader
+    ¦   ¦   +---Completion
+    ¦   ¦   ¦   +---Output
+    ¦   ¦   +---DataCollector
+    ¦   ¦   +---Debug
+    ¦   ¦   +---DependencyInjection
+    ¦   ¦   +---Descriptor
+    ¦   ¦   +---Event
+    ¦   ¦   +---EventListener
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Formatter
+    ¦   ¦   +---Helper
+    ¦   ¦   +---Input
+    ¦   ¦   +---Logger
+    ¦   ¦   +---Messenger
+    ¦   ¦   +---Output
+    ¦   ¦   +---Question
+    ¦   ¦   +---Resources
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   +---SignalRegistry
+    ¦   ¦   +---Style
+    ¦   ¦   +---Tester
+    ¦   ¦       +---Constraint
+    ¦   +---css-selector
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Node
+    ¦   ¦   +---Parser
+    ¦   ¦   ¦   +---Handler
+    ¦   ¦   ¦   +---Shortcut
+    ¦   ¦   ¦   +---Tokenizer
+    ¦   ¦   +---XPath
+    ¦   ¦       +---Extension
+    ¦   +---deprecation-contracts
+    ¦   +---error-handler
+    ¦   ¦   +---Error
+    ¦   ¦   +---ErrorEnhancer
+    ¦   ¦   +---ErrorRenderer
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Internal
+    ¦   ¦   +---Resources
+    ¦   ¦       +---assets
+    ¦   ¦       ¦   +---css
+    ¦   ¦       ¦   +---images
+    ¦   ¦       ¦   +---js
+    ¦   ¦       +---bin
+    ¦   ¦       +---views
+    ¦   +---event-dispatcher
+    ¦   ¦   +---Attribute
+    ¦   ¦   +---Debug
+    ¦   ¦   +---DependencyInjection
+    ¦   +---event-dispatcher-contracts
+    ¦   +---finder
+    ¦   ¦   +---Comparator
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Iterator
+    ¦   +---html-sanitizer
+    ¦   ¦   +---Parser
+    ¦   ¦   +---Reference
+    ¦   ¦   +---TextSanitizer
+    ¦   ¦   +---Visitor
+    ¦   ¦       +---AttributeSanitizer
+    ¦   ¦       +---Model
+    ¦   ¦       +---Node
+    ¦   +---http-foundation
+    ¦   ¦   +---Exception
+    ¦   ¦   +---File
+    ¦   ¦   ¦   +---Exception
+    ¦   ¦   +---RateLimiter
+    ¦   ¦   +---RequestMatcher
+    ¦   ¦   +---Session
+    ¦   ¦   ¦   +---Attribute
+    ¦   ¦   ¦   +---Flash
+    ¦   ¦   ¦   +---Storage
+    ¦   ¦   ¦       +---Handler
+    ¦   ¦   ¦       +---Proxy
+    ¦   ¦   +---Test
+    ¦   ¦       +---Constraint
+    ¦   +---http-kernel
+    ¦   ¦   +---Attribute
+    ¦   ¦   +---Bundle
+    ¦   ¦   +---CacheClearer
+    ¦   ¦   +---CacheWarmer
+    ¦   ¦   +---Config
+    ¦   ¦   +---Controller
+    ¦   ¦   ¦   +---ArgumentResolver
+    ¦   ¦   +---ControllerMetadata
+    ¦   ¦   +---DataCollector
+    ¦   ¦   +---Debug
+    ¦   ¦   +---DependencyInjection
+    ¦   ¦   +---Event
+    ¦   ¦   +---EventListener
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Fragment
+    ¦   ¦   +---HttpCache
+    ¦   ¦   +---Log
+    ¦   ¦   +---Profiler
+    ¦   ¦   +---Resources
+    ¦   +---mailer
+    ¦   ¦   +---Command
+    ¦   ¦   +---DataCollector
+    ¦   ¦   +---Event
+    ¦   ¦   +---EventListener
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Header
+    ¦   ¦   +---Messenger
+    ¦   ¦   +---Test
+    ¦   ¦   ¦   +---Constraint
+    ¦   ¦   +---Transport
+    ¦   ¦       +---Smtp
+    ¦   ¦           +---Auth
+    ¦   ¦           +---Stream
+    ¦   +---mime
+    ¦   ¦   +---Crypto
+    ¦   ¦   +---DependencyInjection
+    ¦   ¦   +---Encoder
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Header
+    ¦   ¦   +---HtmlToTextConverter
+    ¦   ¦   +---Part
+    ¦   ¦   ¦   +---Multipart
+    ¦   ¦   +---Resources
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   +---Test
+    ¦   ¦       +---Constraint
+    ¦   +---polyfill-ctype
+    ¦   +---polyfill-intl-grapheme
+    ¦   +---polyfill-intl-idn
+    ¦   ¦   +---Resources
+    ¦   ¦       +---unidata
+    ¦   +---polyfill-intl-normalizer
+    ¦   ¦   +---Resources
+    ¦   ¦       +---stubs
+    ¦   ¦       +---unidata
+    ¦   +---polyfill-mbstring
+    ¦   ¦   +---Resources
+    ¦   ¦       +---unidata
+    ¦   +---polyfill-php80
+    ¦   ¦   +---Resources
+    ¦   ¦       +---stubs
+    ¦   +---polyfill-php83
+    ¦   ¦   +---Resources
+    ¦   ¦       +---stubs
+    ¦   +---polyfill-uuid
+    ¦   +---process
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Messenger
+    ¦   ¦   +---Pipes
+    ¦   +---routing
+    ¦   ¦   +---Annotation
+    ¦   ¦   +---Attribute
+    ¦   ¦   +---DependencyInjection
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Generator
+    ¦   ¦   ¦   +---Dumper
+    ¦   ¦   +---Loader
+    ¦   ¦   ¦   +---Configurator
+    ¦   ¦   ¦   ¦   +---Traits
+    ¦   ¦   ¦   +---schema
+    ¦   ¦   ¦       +---routing
+    ¦   ¦   +---Matcher
+    ¦   ¦   ¦   +---Dumper
+    ¦   ¦   +---Requirement
+    ¦   +---service-contracts
+    ¦   ¦   +---Attribute
+    ¦   ¦   +---Test
+    ¦   +---string
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Inflector
+    ¦   ¦   +---Resources
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---data
+    ¦   ¦   +---Slugger
+    ¦   +---translation
+    ¦   ¦   +---Catalogue
+    ¦   ¦   +---Command
+    ¦   ¦   +---DataCollector
+    ¦   ¦   +---DependencyInjection
+    ¦   ¦   +---Dumper
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Extractor
+    ¦   ¦   ¦   +---Visitor
+    ¦   ¦   +---Formatter
+    ¦   ¦   +---Loader
+    ¦   ¦   +---Provider
+    ¦   ¦   +---Reader
+    ¦   ¦   +---Resources
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---data
+    ¦   ¦   ¦   +---schemas
+    ¦   ¦   +---Test
+    ¦   ¦   +---Util
+    ¦   ¦   +---Writer
+    ¦   +---translation-contracts
+    ¦   ¦   +---Test
+    ¦   +---uid
+    ¦   ¦   +---Command
+    ¦   ¦   +---Factory
+    ¦   +---var-dumper
+    ¦   ¦   +---Caster
+    ¦   ¦   +---Cloner
+    ¦   ¦   ¦   +---Internal
+    ¦   ¦   +---Command
+    ¦   ¦   ¦   +---Descriptor
+    ¦   ¦   +---Dumper
+    ¦   ¦   ¦   +---ContextProvider
+    ¦   ¦   +---Exception
+    ¦   ¦   +---Resources
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---css
+    ¦   ¦   ¦   +---functions
+    ¦   ¦   ¦   +---js
+    ¦   ¦   +---Server
+    ¦   ¦   +---Test
+    ¦   +---yaml
+    ¦       +---Command
+    ¦       +---Exception
+    ¦       +---Resources
+    ¦       ¦   +---bin
+    ¦       +---Tag
+    +---ta-tikoma
+    ¦   +---phpunit-architecture-test
+    ¦       +---src
+    ¦           +---Asserts
+    ¦           ¦   +---Dependencies
+    ¦           ¦   ¦   +---Elements
+    ¦           ¦   +---Inheritance
+    ¦           ¦   +---Iterator
+    ¦           ¦   +---Methods
+    ¦           ¦   ¦   +---Elements
+    ¦           ¦   +---Properties
+    ¦           ¦       +---Elements
+    ¦           +---Builders
+    ¦           +---Elements
+    ¦           ¦   +---Layer
+    ¦           +---Enums
+    ¦           +---Services
+    ¦           +---Storage
+    +---theseer
+    ¦   +---tokenizer
+    ¦       +---src
+    +---tijsverkoyen
+    ¦   +---css-to-inline-styles
+    ¦       +---src
+    ¦           +---Css
+    ¦               +---Property
+    ¦               +---Rule
+    +---vlucas
+    ¦   +---phpdotenv
+    ¦       +---src
+    ¦           +---Exception
+    ¦           +---Loader
+    ¦           +---Parser
+    ¦           +---Repository
+    ¦           ¦   +---Adapter
+    ¦           +---Store
+    ¦           ¦   +---File
+    ¦           +---Util
+    +---voku
+    ¦   +---portable-ascii
+    ¦       +---src
+    ¦           +---voku
+    ¦               +---helper
+    ¦                   +---data
+    +---webmozart
+        +---assert
+            +---src

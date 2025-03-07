@@ -1,0 +1,97 @@
+Folder PATH listing
+Volume serial number is F266-B50E
+C:.
+¦   struktur-file-app.txt
+¦   
++---Console
+¦       Kernel.php
+¦       
++---Exceptions
+¦       Handler.php
+¦       
++---Http
+¦   ¦   Kernel.php
+¦   ¦   
+¦   +---Controllers
+¦   ¦   ¦   AdminController.php
+¦   ¦   ¦   CartController.php
+¦   ¦   ¦   CartItemController.php
+¦   ¦   ¦   ContactController.php
+¦   ¦   ¦   Controller.php
+¦   ¦   ¦   MenuController.php
+¦   ¦   ¦   OrderController.php
+¦   ¦   ¦   postcontroller.php
+¦   ¦   ¦   ProductController.php
+¦   ¦   ¦   ProfileController.php
+¦   ¦   ¦   TaskController.php
+¦   ¦   ¦   
+¦   ¦   +---admin
+¦   ¦   ¦       DashboardController.php
+¦   ¦   ¦       OrderController.php
+¦   ¦   ¦       ProductController.php
+¦   ¦   ¦       UserController.php
+¦   ¦   ¦       
+¦   ¦   +---Auth
+¦   ¦           AuthenticatedSessionController.php
+¦   ¦           ConfirmablePasswordController.php
+¦   ¦           EmailVerificationNotificationController.php
+¦   ¦           EmailVerificationPromptController.php
+¦   ¦           NewPasswordController.php
+¦   ¦           PasswordController.php
+¦   ¦           PasswordResetLinkController.php
+¦   ¦           RegisterController.php
+¦   ¦           RegisteredUserController.php
+¦   ¦           VerifyEmailController.php
+¦   ¦           
+¦   +---Middleware
+¦   ¦       AdminAuthenticate.php
+¦   ¦       AdminMiddleware.php
+¦   ¦       Authenticate.php
+¦   ¦       EncryptCookies.php
+¦   ¦       PreventRequestsDuringMaintenance.php
+¦   ¦       RedirectIfAuthenticated.php
+¦   ¦       TrimStrings.php
+¦   ¦       TrustHosts.php
+¦   ¦       TrustProxies.php
+¦   ¦       ValidateSignature.php
+¦   ¦       VerifyCsrfToken.php
+¦   ¦       
+¦   +---Requests
+¦       ¦   ProfileUpdateRequest.php
+¦       ¦   StoreCartItemRequest.php
+¦       ¦   UpdateCartItemRequest.php
+¦       ¦   
+¦       +---Auth
+¦               LoginRequest.php
+¦               
++---Models
+¦       Admin.php
+¦       CartItem.php
+¦       Contact.php
+¦       Order.php
+¦       OrderItem.php
+¦       post.php
+¦       Product.php
+¦       Task.php
+¦       User.php
+¦       
++---Policies
+¦       CartItemPolicy.php
+¦       ContactPolicy.php
+¦       
++---Providers
+¦   ¦   AppServiceProvider.php
+¦   ¦   AuthServiceProvider.php
+¦   ¦   BroadcastServiceProvider.php
+¦   ¦   EventServiceProvider.php
+¦   ¦   RouteServiceProvider.php
+¦   ¦   
+¦   +---Filament
+¦           AdminPanelProvider.php
+¦           
++---View
+    +---Components
+            AppLayout.php
+            AuthLayout.php
+            GuestLayout.php
+            
