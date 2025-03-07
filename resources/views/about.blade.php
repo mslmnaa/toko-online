@@ -13,7 +13,7 @@
     <div class="relative h-full flex items-center justify-center">
         <div class="text-center max-w-4xl mx-auto px-4">
             <h1 class="text-4xl md:text-6xl font-bold text-white mb-6 animate-fade-down">
-                About Geraimu
+                About Geraimuu
             </h1>
             <p class="text-xl md:text-2xl text-gray-200 mb-8 animate-fade-up max-w-2xl mx-auto leading-relaxed">
                 Crafting exceptional coffee experiences since 2010
